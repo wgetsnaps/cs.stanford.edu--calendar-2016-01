@@ -1,0 +1,3303 @@
+--2016-01-11 22:26:37--  http://www-cs.stanford.edu/events/calendar/month/2016-01
+Resolving www-cs.stanford.edu... 171.64.64.64
+Connecting to www-cs.stanford.edu|171.64.64.64|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/month/2016-01.html'
+
+     0K .......... .......... .......... .......... .......... 5.73M
+    50K .......... .......... .......... .......... .......... 5.40M
+   100K .......                                                2.09M=0.02s
+
+2016-01-11 22:26:38 (4.97 MB/s) - 'events/calendar/month/2016-01.html' saved [110306]
+
+Loading robots.txt; please ignore errors.
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/robots.txt
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1479 (1.4K) [text/plain]
+Saving to: 'robots.txt'
+
+     0K .                                                     100%  201M=0s
+
+2016-01-11 22:26:38 (201 MB/s) - 'robots.txt' saved [1479/1479]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/stanford_wilbur/favicon.ico
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1406 (1.4K) [image/vnd.microsoft.icon]
+Saving to: 'sites/all/themes/stanford_wilbur/favicon.ico'
+
+     0K .                                                     100%  103M=0s
+
+2016-01-11 22:26:38 (103 MB/s) - 'sites/all/themes/stanford_wilbur/favicon.ico' saved [1406/1406]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/modules/calendar/css/calendar_multiday.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 20033 (20K) [text/css]
+Saving to: 'sites/all/modules/calendar/css/calendar_multiday.css?o0hw9b.css'
+
+     0K .......... .........                                  100% 7.43M=0.003s
+
+2016-01-11 22:26:38 (7.43 MB/s) - 'sites/all/modules/calendar/css/calendar_multiday.css?o0hw9b.css' saved [20033/20033]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/modules/date/date_api/date.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3733 (3.6K) [text/css]
+Saving to: 'sites/all/modules/date/date_api/date.css?o0hw9b.css'
+
+     0K ...                                                   100% 13.2M=0s
+
+2016-01-11 22:26:38 (13.2 MB/s) - 'sites/all/modules/date/date_api/date.css?o0hw9b.css' saved [3733/3733]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/modules/views/css/views.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 707 [text/css]
+Saving to: 'sites/all/modules/views/css/views.css?o0hw9b.css'
+
+     0K                                                       100%  112M=0s
+
+2016-01-11 22:26:38 (112 MB/s) - 'sites/all/modules/views/css/views.css?o0hw9b.css' saved [707/707]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/modules/ckeditor/css/ckeditor.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 431 [text/css]
+Saving to: 'sites/all/modules/ckeditor/css/ckeditor.css?o0hw9b.css'
+
+     0K                                                       100% 51.4M=0s
+
+2016-01-11 22:26:38 (51.4 MB/s) - 'sites/all/modules/ckeditor/css/ckeditor.css?o0hw9b.css' saved [431/431]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/modules/ctools/css/ctools.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 509 [text/css]
+Saving to: 'sites/all/modules/ctools/css/ctools.css?o0hw9b.css'
+
+     0K                                                       100% 69.3M=0s
+
+2016-01-11 22:26:38 (69.3 MB/s) - 'sites/all/modules/ctools/css/ctools.css?o0hw9b.css' saved [509/509]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/modules/date/date_views/css/date_views.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2568 (2.5K) [text/css]
+Saving to: 'sites/all/modules/date/date_views/css/date_views.css?o0hw9b.css'
+
+     0K ..                                                    100%  136M=0s
+
+2016-01-11 22:26:38 (136 MB/s) - 'sites/all/modules/date/date_views/css/date_views.css?o0hw9b.css' saved [2568/2568]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/open_framework/bootstrap/css/bootstrap.min.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 105939 (103K) [text/css]
+Saving to: 'sites/all/themes/open_framework/bootstrap/css/bootstrap.min.css?o0hw9b.css'
+
+     0K .......... .......... .......... .......... .......... 48% 5.53M 0s
+    50K .......... .......... .......... .......... .......... 96% 6.94M 0s
+   100K ...                                                   100% 7.58M=0.02s
+
+2016-01-11 22:26:38 (6.19 MB/s) - 'sites/all/themes/open_framework/bootstrap/css/bootstrap.min.css?o0hw9b.css' saved [105939/105939]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/open_framework/bootstrap/css/bootstrap-responsive.min.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 16849 (16K) [text/css]
+Saving to: 'sites/all/themes/open_framework/bootstrap/css/bootstrap-responsive.min.css?o0hw9b.css'
+
+     0K .......... ......                                     100% 7.36M=0.002s
+
+2016-01-11 22:26:38 (7.36 MB/s) - 'sites/all/themes/open_framework/bootstrap/css/bootstrap-responsive.min.css?o0hw9b.css' saved [16849/16849]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/open_framework/fontawesome/css/font-awesome.min.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 22084 (22K) [text/css]
+Saving to: 'sites/all/themes/open_framework/fontawesome/css/font-awesome.min.css?o0hw9b.css'
+
+     0K .......... .......... .                               100% 7.81M=0.003s
+
+2016-01-11 22:26:38 (7.81 MB/s) - 'sites/all/themes/open_framework/fontawesome/css/font-awesome.min.css?o0hw9b.css' saved [22084/22084]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/open_framework/css/open_framework.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 27850 (27K) [text/css]
+Saving to: 'sites/all/themes/open_framework/css/open_framework.css?o0hw9b.css'
+
+     0K .......... .......... .......                         100% 7.30M=0.004s
+
+2016-01-11 22:26:38 (7.30 MB/s) - 'sites/all/themes/open_framework/css/open_framework.css?o0hw9b.css' saved [27850/27850]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/stanford_framework/css/ie.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1167 (1.1K) [text/css]
+Saving to: 'sites/all/themes/stanford_framework/css/ie.css?o0hw9b.css'
+
+     0K .                                                     100%  159M=0s
+
+2016-01-11 22:26:38 (159 MB/s) - 'sites/all/themes/stanford_framework/css/ie.css?o0hw9b.css' saved [1167/1167]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/stanford_framework/css/stanford_framework.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 26486 (26K) [text/css]
+Saving to: 'sites/all/themes/stanford_framework/css/stanford_framework.css?o0hw9b.css'
+
+     0K .......... .......... .....                           100% 9.00M=0.003s
+
+2016-01-11 22:26:38 (9.00 MB/s) - 'sites/all/themes/stanford_framework/css/stanford_framework.css?o0hw9b.css' saved [26486/26486]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/stanford_wilbur/css/stanford_wilbur.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 20737 (20K) [text/css]
+Saving to: 'sites/all/themes/stanford_wilbur/css/stanford_wilbur.css?o0hw9b.css'
+
+     0K .......... ..........                                 100% 8.65M=0.002s
+
+2016-01-11 22:26:38 (8.65 MB/s) - 'sites/all/themes/stanford_wilbur/css/stanford_wilbur.css?o0hw9b.css' saved [20737/20737]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/open_framework/css/open_framework_print.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 720 [text/css]
+Saving to: 'sites/all/themes/open_framework/css/open_framework_print.css?o0hw9b.css'
+
+     0K                                                       100%  114M=0s
+
+2016-01-11 22:26:38 (114 MB/s) - 'sites/all/themes/open_framework/css/open_framework_print.css?o0hw9b.css' saved [720/720]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/default/files/css_injector/css_injector_1.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7446 (7.3K) [text/css]
+Saving to: 'sites/default/files/css_injector/css_injector_1.css?o0hw9b.css'
+
+     0K .......                                               100% 12.1M=0.001s
+
+2016-01-11 22:26:38 (12.1 MB/s) - 'sites/default/files/css_injector/css_injector_1.css?o0hw9b.css' saved [7446/7446]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/modules/google_analytics/googleanalytics.js?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5493 (5.4K) [text/javascript]
+Saving to: 'sites/all/modules/google_analytics/googleanalytics.js?o0hw9b'
+
+     0K .....                                                 100% 7.58M=0.001s
+
+2016-01-11 22:26:38 (7.58 MB/s) - 'sites/all/modules/google_analytics/googleanalytics.js?o0hw9b' saved [5493/5493]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/open_framework/bootstrap/js/bootstrap.min.js?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 28538 (28K) [text/javascript]
+Saving to: 'sites/all/themes/open_framework/bootstrap/js/bootstrap.min.js?o0hw9b'
+
+     0K .......... .......... .......                         100% 7.65M=0.004s
+
+2016-01-11 22:26:38 (7.65 MB/s) - 'sites/all/themes/open_framework/bootstrap/js/bootstrap.min.js?o0hw9b' saved [28538/28538]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/open_framework/js/open_framework.js?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2983 (2.9K) [text/javascript]
+Saving to: 'sites/all/themes/open_framework/js/open_framework.js?o0hw9b'
+
+     0K ..                                                    100% 34.7M=0s
+
+2016-01-11 22:26:38 (34.7 MB/s) - 'sites/all/themes/open_framework/js/open_framework.js?o0hw9b' saved [2983/2983]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/open_framework/js/override.js?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3771 (3.7K) [text/javascript]
+Saving to: 'sites/all/themes/open_framework/js/override.js?o0hw9b'
+
+     0K ...                                                   100% 14.6M=0s
+
+2016-01-11 22:26:38 (14.6 MB/s) - 'sites/all/themes/open_framework/js/override.js?o0hw9b' saved [3771/3771]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/stanford_framework/js/stanford_framework.js?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 350 [text/javascript]
+Saving to: 'sites/all/themes/stanford_framework/js/stanford_framework.js?o0hw9b'
+
+     0K                                                       100% 55.6M=0s
+
+2016-01-11 22:26:38 (55.6 MB/s) - 'sites/all/themes/stanford_framework/js/stanford_framework.js?o0hw9b' saved [350/350]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/stanford_wilbur/js/stanford_wilbur.js?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3286 (3.2K) [text/javascript]
+Saving to: 'sites/all/themes/stanford_wilbur/js/stanford_wilbur.js?o0hw9b'
+
+     0K ...                                                   100% 9.82M=0s
+
+2016-01-11 22:26:38 (9.82 MB/s) - 'sites/all/themes/stanford_wilbur/js/stanford_wilbur.js?o0hw9b' saved [3286/3286]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/all/themes/stanford_wilbur/images/header-stanford-logo@2x.png
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5792 (5.7K) [image/png]
+Saving to: 'sites/all/themes/stanford_wilbur/images/header-stanford-logo@2x.png'
+
+     0K .....                                                 100% 4.71M=0.001s
+
+2016-01-11 22:26:38 (4.71 MB/s) - 'sites/all/themes/stanford_wilbur/images/header-stanford-logo@2x.png' saved [5792/5792]
+
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/sites/default/webauth/login?destination=events/calendar/month/2016-01
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www-cs.stanford.edu/sites/default/webauth/login?destination=events/calendar/month/2016-01 [following]
+--2016-01-11 22:26:38--  https://www-cs.stanford.edu/sites/default/webauth/login?destination=events/calendar/month/2016-01
+Connecting to www-cs.stanford.edu|171.64.64.64|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name 'www-cs.stanford.edu'.
+To connect to www-cs.stanford.edu insecurely, use `--no-check-certificate'.
+--2016-01-11 22:26:38--  http://www-cs.stanford.edu/
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'index.html'
+
+     0K .......... .......... .......... .......... ...        4.07M=0.01s
+
+2016-01-11 22:26:39 (4.07 MB/s) - 'index.html' saved [44091]
+
+--2016-01-11 22:26:39--  http://www-cs.stanford.edu/sites/all/themes/stanford_wilbur/logo.png
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5338 (5.2K) [image/png]
+Saving to: 'sites/all/themes/stanford_wilbur/logo.png'
+
+     0K .....                                                 100% 5.84M=0.001s
+
+2016-01-11 22:26:39 (5.84 MB/s) - 'sites/all/themes/stanford_wilbur/logo.png' saved [5338/5338]
+
+--2016-01-11 22:26:39--  http://www-cs.stanford.edu/sites/all/themes/open_framework/images/searchbutton.png
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 250 [image/png]
+Saving to: 'sites/all/themes/open_framework/images/searchbutton.png'
+
+     0K                                                       100% 14.9M=0s
+
+2016-01-11 22:26:39 (14.9 MB/s) - 'sites/all/themes/open_framework/images/searchbutton.png' saved [250/250]
+
+--2016-01-11 22:26:39--  http://www-cs.stanford.edu/about
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'about.html'
+
+     0K .......... .......... ........                         5.15M=0.005s
+
+2016-01-11 22:26:39 (5.15 MB/s) - 'about.html' saved [29559]
+
+--2016-01-11 22:26:39--  http://www-cs.stanford.edu/about/department-overview
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'about/department-overview.html'
+
+     0K .......... .......... ..........                       6.04M=0.005s
+
+2016-01-11 22:26:39 (6.04 MB/s) - 'about/department-overview.html' saved [31543]
+
+--2016-01-11 22:26:39--  http://www-cs.stanford.edu/about/contact-us
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'about/contact-us.html'
+
+     0K .......... .......... ..........                       6.56M=0.005s
+
+2016-01-11 22:26:40 (6.56 MB/s) - 'about/contact-us.html' saved [31398]
+
+--2016-01-11 22:26:40--  http://www-cs.stanford.edu/about/directions
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'about/directions.html'
+
+     0K .......... .......... .......... ..                    4.57M=0.007s
+
+2016-01-11 22:26:40 (4.57 MB/s) - 'about/directions.html' saved [33521]
+
+--2016-01-11 22:26:40--  http://www-cs.stanford.edu/jobs
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'jobs.html'
+
+     0K .......... .......... ........                         3.47M=0.008s
+
+2016-01-11 22:26:40 (3.47 MB/s) - 'jobs.html' saved [29424]
+
+--2016-01-11 22:26:40--  http://www-cs.stanford.edu/jobs/faculty-opening
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'jobs/faculty-opening.html'
+
+     0K .......... .......... .......... ...                   5.56M=0.006s
+
+2016-01-11 22:26:40 (5.56 MB/s) - 'jobs/faculty-opening.html' saved [34410]
+
+--2016-01-11 22:26:40--  http://www-cs.stanford.edu/jobs/lecturer-opening
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'jobs/lecturer-opening.html'
+
+     0K .......... .......... ..........                       6.18M=0.005s
+
+2016-01-11 22:26:40 (6.18 MB/s) - 'jobs/lecturer-opening.html' saved [31642]
+
+--2016-01-11 22:26:40--  http://www-cs.stanford.edu/jobs/teaching-faculty-opening
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'jobs/teaching-faculty-opening.html'
+
+     0K .......... .......... .......... .                     5.27M=0.006s
+
+2016-01-11 22:26:41 (5.27 MB/s) - 'jobs/teaching-faculty-opening.html' saved [32349]
+
+--2016-01-11 22:26:41--  http://www-cs.stanford.edu/jobs/postdoctoral-opening
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'jobs/postdoctoral-opening.html'
+
+     0K .......... .......... ........                         5.53M=0.005s
+
+2016-01-11 22:26:41 (5.53 MB/s) - 'jobs/postdoctoral-opening.html' saved [29692]
+
+--2016-01-11 22:26:41--  http://www-cs.stanford.edu/jobs/resources-students-alumni
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'jobs/resources-students-alumni.html'
+
+     0K .......... .......... .........                        6.54M=0.004s
+
+2016-01-11 22:26:41 (6.54 MB/s) - 'jobs/resources-students-alumni.html' saved [30329]
+
+--2016-01-11 22:26:41--  http://www-cs.stanford.edu/about/strategic-plan
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'about/strategic-plan.html'
+
+     0K .......... .......... ..........                       4.26M=0.007s
+
+2016-01-11 22:26:42 (4.26 MB/s) - 'about/strategic-plan.html' saved [30886]
+
+--2016-01-11 22:26:42--  http://www-cs.stanford.edu/department-newsletter
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'department-newsletter.html'
+
+     0K .......... .......... ........                         5.87M=0.005s
+
+2016-01-11 22:26:42 (5.87 MB/s) - 'department-newsletter.html' saved [29391]
+
+--2016-01-11 22:26:42--  http://www-cs.stanford.edu/department-newsletter/2014-department-newsletter
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'department-newsletter/2014-department-newsletter.html'
+
+     0K .......... .......... .......... .......... .......... 4.25M
+    50K                                                        4.88K=0.01s
+
+2016-01-11 22:26:42 (4.27 MB/s) - 'department-newsletter/2014-department-newsletter.html' saved [51450]
+
+--2016-01-11 22:26:42--  http://www-cs.stanford.edu/department-newsletter/past-newsletters
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'department-newsletter/past-newsletters.html'
+
+     0K .......... .......... .........                        5.38M=0.005s
+
+2016-01-11 22:26:42 (5.38 MB/s) - 'department-newsletter/past-newsletters.html' saved [29764]
+
+--2016-01-11 22:26:42--  http://www-cs.stanford.edu/forum
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'forum.html'
+
+     0K .......... .......... ..........                       8.28M=0.004s
+
+2016-01-11 22:26:43 (8.28 MB/s) - 'forum.html' saved [30884]
+
+--2016-01-11 22:26:43--  http://www-cs.stanford.edu/about/giving-computer-science
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'about/giving-computer-science.html'
+
+     0K .......... .......... ..........                       9.21M=0.003s
+
+2016-01-11 22:26:43 (9.21 MB/s) - 'about/giving-computer-science.html' saved [31575]
+
+--2016-01-11 22:26:43--  http://www-cs.stanford.edu/about/department-timeline
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'about/department-timeline.html'
+
+     0K .......... .......... .......... .......... .......... 4.90M
+    50K .......... .......... .......... .                     5.93M=0.02s
+
+2016-01-11 22:26:43 (5.25 MB/s) - 'about/department-timeline.html' saved [83218]
+
+--2016-01-11 22:26:43--  http://www-cs.stanford.edu/about/gates-computer-science-building
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'about/gates-computer-science-building.html'
+
+     0K .......... .......... .......... ...                   6.87M=0.005s
+
+2016-01-11 22:26:43 (6.87 MB/s) - 'about/gates-computer-science-building.html' saved [34140]
+
+--2016-01-11 22:26:43--  http://www-cs.stanford.edu/directory
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'directory.html'
+
+     0K .......... .......... .........                        4.60M=0.006s
+
+2016-01-11 22:26:44 (4.60 MB/s) - 'directory.html' saved [30110]
+
+--2016-01-11 22:26:44--  http://www-cs.stanford.edu/directory/faculty
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'directory/faculty.html'
+
+     0K .......... .......... .......... .......... .......... 5.79M
+    50K .......... ....                                        4.81M=0.01s
+
+2016-01-11 22:26:47 (5.53 MB/s) - 'directory/faculty.html' saved [66295]
+
+--2016-01-11 22:26:47--  http://www-cs.stanford.edu/directory/research-staff
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'directory/research-staff.html'
+
+     0K .......... .......... .......... .........             3.01M=0.01s
+
+2016-01-11 22:26:49 (3.01 MB/s) - 'directory/research-staff.html' saved [40936]
+
+--2016-01-11 22:26:49--  http://www-cs.stanford.edu/directory/administrative-staff
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'directory/administrative-staff.html'
+
+     0K .......... .......... .......... .......... ....       3.54M=0.01s
+
+2016-01-11 22:26:50 (3.54 MB/s) - 'directory/administrative-staff.html' saved [45076]
+
+--2016-01-11 22:26:50--  http://www-cs.stanford.edu/directory/undergraduate-students
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'directory/undergraduate-students.html'
+
+     0K .......... .......... .......... .......... .........  4.56M=0.01s
+
+2016-01-11 22:26:53 (4.56 MB/s) - 'directory/undergraduate-students.html' saved [50906]
+
+--2016-01-11 22:26:53--  http://www-cs.stanford.edu/directory/masters-students
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'directory/masters-students.html'
+
+     0K .......... .......... .......... .......... .......... 4.62M
+    50K ..                                                     3.76M=0.01s
+
+2016-01-11 22:26:56 (4.58 MB/s) - 'directory/masters-students.html' saved [53355]
+
+--2016-01-11 22:26:56--  http://www-cs.stanford.edu/directory/phd-students
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'directory/phd-students.html'
+
+     0K .......... .......... .......... .......... .......... 3.80M
+    50K .                                                      31.9K=0.01s
+
+2016-01-11 22:26:59 (3.92 MB/s) - 'directory/phd-students.html' saved [52834]
+
+--2016-01-11 22:26:59--  http://www-cs.stanford.edu/directory/undergraduate-alumni
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'directory/undergraduate-alumni.html'
+
+     0K .......... .......... .......... .......... .......    4.11M=0.01s
+
+2016-01-11 22:27:01 (4.11 MB/s) - 'directory/undergraduate-alumni.html' saved [48419]
+
+--2016-01-11 22:27:01--  http://www-cs.stanford.edu/directory/masters-alumni
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'directory/masters-alumni.html'
+
+     0K .......... .......... .......... .......... ........   4.80M=0.01s
+
+2016-01-11 22:27:04 (4.80 MB/s) - 'directory/masters-alumni.html' saved [49712]
+
+--2016-01-11 22:27:04--  http://www-cs.stanford.edu/directory/phd-alumni
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'directory/phd-alumni.html'
+
+     0K .......... .......... .......... .......... ........   4.96M=0.01s
+
+2016-01-11 22:27:07 (4.96 MB/s) - 'directory/phd-alumni.html' saved [49982]
+
+--2016-01-11 22:27:07--  http://www-cs.stanford.edu/memoriam
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'memoriam.html'
+
+     0K .......... .......... .......... .......... .          5.01M=0.008s
+
+2016-01-11 22:27:07 (5.01 MB/s) - 'memoriam.html' saved [42745]
+
+--2016-01-11 22:27:07--  http://www-cs.stanford.edu/research
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'research.html'
+
+     0K .......... .......... .......... .......... .......    4.67M=0.01s
+
+2016-01-11 22:27:07 (4.67 MB/s) - 'research.html' saved [48662]
+
+--2016-01-11 22:27:07--  http://www-cs.stanford.edu/academics
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics.html'
+
+     0K .......... .......... ........                         5.36M=0.005s
+
+2016-01-11 22:27:08 (5.36 MB/s) - 'academics.html' saved [29378]
+
+--2016-01-11 22:27:08--  http://www-cs.stanford.edu/academics/courses
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/courses.html'
+
+     0K .......... .......... ..........                       6.47M=0.005s
+
+2016-01-11 22:27:08 (6.47 MB/s) - 'academics/courses.html' saved [30933]
+
+--2016-01-11 22:27:08--  http://www-cs.stanford.edu/academics/current-masters
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/current-masters.html'
+
+     0K .......... .......... .........                        5.06M=0.006s
+
+2016-01-11 22:27:08 (5.06 MB/s) - 'academics/current-masters.html' saved [30059]
+
+--2016-01-11 22:27:08--  http://www-cs.stanford.edu/academics/current-masters/choosing-specialization
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/current-masters/choosing-specialization.html'
+
+     0K .......... .......... .......... .......... .......... 4.58M
+    50K                                                        1.39M=0.01s
+
+2016-01-11 22:27:08 (4.49 MB/s) - 'academics/current-masters/choosing-specialization.html' saved [51673]
+
+--2016-01-11 22:27:08--  http://www-cs.stanford.edu/academics/current-masters/choosing-classes
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/current-masters/choosing-classes.html'
+
+     0K .......... .......... .......... .                     4.28M=0.007s
+
+2016-01-11 22:27:09 (4.28 MB/s) - 'academics/current-masters/choosing-classes.html' saved [31796]
+
+--2016-01-11 22:27:09--  http://www-cs.stanford.edu/academics/current-masters/joint-cs-mslaw-degree
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/current-masters/joint-cs-mslaw-degree.html'
+
+     0K .......... .......... .......... ...                   5.15M=0.006s
+
+2016-01-11 22:27:09 (5.15 MB/s) - 'academics/current-masters/joint-cs-mslaw-degree.html' saved [34059]
+
+--2016-01-11 22:27:09--  http://www-cs.stanford.edu/academics/current-masters/joint-cs-msmba-degree
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/current-masters/joint-cs-msmba-degree.html'
+
+     0K .......... .......... .......... ........              5.00M=0.007s
+
+2016-01-11 22:27:09 (5.00 MB/s) - 'academics/current-masters/joint-cs-msmba-degree.html' saved [39194]
+
+--2016-01-11 22:27:09--  http://www-cs.stanford.edu/academics/current-masters/faq
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/current-masters/faq.html'
+
+     0K .......... .......... .......... .....                 6.35M=0.006s
+
+2016-01-11 22:27:10 (6.35 MB/s) - 'academics/current-masters/faq.html' saved [36860]
+
+--2016-01-11 22:27:10--  http://www-cs.stanford.edu/academics/current-masters/masters-program-sheets/programsheets
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/current-masters/masters-program-sheets/programsheets.html'
+
+     0K .......... .......... .......... .......... .......... 4.80M
+    50K .......... ..                                          2.42M=0.02s
+
+2016-01-11 22:27:10 (4.02 MB/s) - 'academics/current-masters/masters-program-sheets/programsheets.html' saved [63802]
+
+--2016-01-11 22:27:11--  http://www-cs.stanford.edu/academics/prospective-masters
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/prospective-masters.html'
+
+     0K .......... .......... .........                        5.04M=0.006s
+
+2016-01-11 22:27:11 (5.04 MB/s) - 'academics/prospective-masters.html' saved [30134]
+
+--2016-01-11 22:27:11--  http://www-cs.stanford.edu/academics/prospective-masters/courses-available-non-stanford-students
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://scpd.stanford.edu/programs/courses [following]
+--2016-01-11 22:27:11--  http://scpd.stanford.edu/programs/courses
+Resolving scpd.stanford.edu... 171.64.115.89
+Connecting to scpd.stanford.edu|171.64.115.89|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48020 (47K) [text/html]
+Saving to: 'academics/prospective-masters/courses-available-non-stanford-students.html'
+
+     0K .......... .......... .......... .......... ......    100% 3.89M=0.01s
+
+2016-01-11 22:27:11 (3.89 MB/s) - 'academics/prospective-masters/courses-available-non-stanford-students.html' saved [48020/48020]
+
+--2016-01-11 22:27:11--  http://www-cs.stanford.edu/academics/prospective-masters/honors-co-op-program
+Connecting to www-cs.stanford.edu|171.64.64.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://gradadmissions.stanford.edu/programs/hcp [following]
+--2016-01-11 22:27:11--  https://gradadmissions.stanford.edu/programs/hcp
+Resolving gradadmissions.stanford.edu... 171.64.13.30
+Connecting to gradadmissions.stanford.edu|171.64.13.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/prospective-masters/honors-co-op-program.html'
+
+     0K .......... .......... .......... .                     4.46M=0.007s
+
+2016-01-11 22:27:11 (4.46 MB/s) - 'academics/prospective-masters/honors-co-op-program.html' saved [32266]
+
+--2016-01-11 22:27:11--  http://www-cs.stanford.edu/academics/prospective-masters/joint-cs-msmba-degree
+Connecting to www-cs.stanford.edu|171.64.64.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www-cs.stanford.edu/academics/current-masters/joint-cs-msmba-degree [following]
+--2016-01-11 22:27:11--  http://www-cs.stanford.edu/academics/current-masters/joint-cs-msmba-degree
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/prospective-masters/joint-cs-msmba-degree.html'
+
+     0K .......... .......... .......... ........              4.64M=0.008s
+
+2016-01-11 22:27:12 (4.64 MB/s) - 'academics/prospective-masters/joint-cs-msmba-degree.html' saved [39194]
+
+--2016-01-11 22:27:12--  http://www-cs.stanford.edu/academics/prospective-masters/faq
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/prospective-masters/faq.html'
+
+     0K .......... .......... .......... .......... .          4.27M=0.009s
+
+2016-01-11 22:27:12 (4.27 MB/s) - 'academics/prospective-masters/faq.html' saved [42237]
+
+--2016-01-11 22:27:12--  http://www-cs.stanford.edu/academics/prospective-masters/joint-cs-mslaw-degree
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www-cs.stanford.edu/academics/current-masters/joint-cs-mslaw-degree [following]
+--2016-01-11 22:27:12--  http://www-cs.stanford.edu/academics/current-masters/joint-cs-mslaw-degree
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/prospective-masters/joint-cs-mslaw-degree.html'
+
+     0K .......... .......... .......... ...                   6.59M=0.005s
+
+2016-01-11 22:27:12 (6.59 MB/s) - 'academics/prospective-masters/joint-cs-mslaw-degree.html' saved [34059]
+
+--2016-01-11 22:27:12--  http://www-cs.stanford.edu/academics/phd
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/phd.html'
+
+     0K .......... .......... .........                        4.49M=0.006s
+
+2016-01-11 22:27:13 (4.49 MB/s) - 'academics/phd.html' saved [30112]
+
+--2016-01-11 22:27:13--  http://www-cs.stanford.edu/academics/phd/phd-orientation-slide
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/phd/phd-orientation-slide.html'
+
+     0K .......... .......... .........                        6.89M=0.004s
+
+2016-01-11 22:27:13 (6.89 MB/s) - 'academics/phd/phd-orientation-slide.html' saved [30150]
+
+--2016-01-11 22:27:13--  http://www-cs.stanford.edu/academics/phd/phd-requirements
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/phd/phd-requirements.html'
+
+     0K .......... .......... .......... .........             3.73M=0.01s
+
+2016-01-11 22:27:13 (3.73 MB/s) - 'academics/phd/phd-requirements.html' saved [40529]
+
+--2016-01-11 22:27:13--  http://www-cs.stanford.edu/academics/phd/first-year-research-rotation-program
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/phd/first-year-research-rotation-program.html'
+
+     0K .......... .......... .......... .                     3.81M=0.008s
+
+2016-01-11 22:27:14 (3.81 MB/s) - 'academics/phd/first-year-research-rotation-program.html' saved [32198]
+
+--2016-01-11 22:27:14--  http://www-cs.stanford.edu/academics/phd/cs300-seminar
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/phd/cs300-seminar.html'
+
+     0K .......... .......... .......... ......                4.07M=0.009s
+
+2016-01-11 22:27:14 (4.07 MB/s) - 'academics/phd/cs300-seminar.html' saved [37871]
+
+--2016-01-11 22:27:14--  http://www-cs.stanford.edu/academics/phd/breadth-requirements
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/phd/breadth-requirements.html'
+
+     0K .......... .......... .......... .......... ....       4.35M=0.01s
+
+2016-01-11 22:27:14 (4.35 MB/s) - 'academics/phd/breadth-requirements.html' saved [45570]
+
+--2016-01-11 22:27:14--  http://www-cs.stanford.edu/academics/phd/qualifying-exams
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/phd/qualifying-exams.html'
+
+     0K .......... .......... .......... ....                  4.62M=0.007s
+
+2016-01-11 22:27:14 (4.62 MB/s) - 'academics/phd/qualifying-exams.html' saved [34935]
+
+--2016-01-11 22:27:14--  http://www-cs.stanford.edu/academics/phd/graduate-student-forms
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/phd/graduate-student-forms.html'
+
+     0K .......... .......... .......... .                     3.80M=0.008s
+
+2016-01-11 22:27:15 (3.80 MB/s) - 'academics/phd/graduate-student-forms.html' saved [32314]
+
+--2016-01-11 22:27:15--  http://www-cs.stanford.edu/academics/ca
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/ca.html'
+
+     0K .......... .......... .........                        2.98M=0.01s
+
+2016-01-11 22:27:15 (2.98 MB/s) - 'academics/ca.html' saved [30305]
+
+--2016-01-11 22:27:15--  http://www-cs.stanford.edu/academics/course-assistants-cas/current-cas
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/course-assistants-cas/current-cas.html'
+
+     0K .......... .......... ..........                       6.45M=0.005s
+
+2016-01-11 22:27:15 (6.45 MB/s) - 'academics/course-assistants-cas/current-cas.html' saved [31527]
+
+--2016-01-11 22:27:15--  http://www-cs.stanford.edu/academics/prospective-cas
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'academics/prospective-cas.html'
+
+     0K .......... .......... .........                        4.26M=0.007s
+
+2016-01-11 22:27:15 (4.26 MB/s) - 'academics/prospective-cas.html' saved [30003]
+
+--2016-01-11 22:27:15--  http://www-cs.stanford.edu/admissions
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions.html'
+
+     0K .......... .......... .........                        4.45M=0.006s
+
+2016-01-11 22:27:16 (4.45 MB/s) - 'admissions.html' saved [29872]
+
+--2016-01-11 22:27:16--  http://www-cs.stanford.edu/admissions/general-information
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions/general-information.html'
+
+     0K .......... .......... .......... ...                   3.41M=0.01s
+
+2016-01-11 22:27:16 (3.41 MB/s) - 'admissions/general-information.html' saved [34289]
+
+--2016-01-11 22:27:16--  http://www-cs.stanford.edu/admissions/deadlines
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions/deadlines.html'
+
+     0K .......... .......... .......... ..                    4.38M=0.007s
+
+2016-01-11 22:27:16 (4.38 MB/s) - 'admissions/deadlines.html' saved [33174]
+
+--2016-01-11 22:27:16--  http://www-cs.stanford.edu/admissions/checklist
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions/checklist.html'
+
+     0K .......... .......... .......... ....                  4.22M=0.008s
+
+2016-01-11 22:27:17 (4.22 MB/s) - 'admissions/checklist.html' saved [35039]
+
+--2016-01-11 22:27:17--  http://www-cs.stanford.edu/admissions/current-stanford-students
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions/current-stanford-students.html'
+
+     0K .......... .......... .........                        3.35M=0.009s
+
+2016-01-11 22:27:17 (3.35 MB/s) - 'admissions/current-stanford-students.html' saved [29900]
+
+--2016-01-11 22:27:17--  http://www-cs.stanford.edu/admissions/current-stanford-students/additionalchange-degree
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions/current-stanford-students/additionalchange-degree.html'
+
+     0K .......... .......... .......... .                     3.96M=0.008s
+
+2016-01-11 22:27:17 (3.96 MB/s) - 'admissions/current-stanford-students/additionalchange-degree.html' saved [32756]
+
+--2016-01-11 22:27:17--  http://www-cs.stanford.edu/admissions/current-stanford-students/coterminal-program
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions/current-stanford-students/coterminal-program.html'
+
+     0K .......... .......... .......... ....                  5.39M=0.006s
+
+2016-01-11 22:27:17 (5.39 MB/s) - 'admissions/current-stanford-students/coterminal-program.html' saved [34992]
+
+--2016-01-11 22:27:17--  http://www-cs.stanford.edu/admissions/current-stanford-students/phd-minor
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions/current-stanford-students/phd-minor.html'
+
+     0K .......... .......... .......... .                     5.04M=0.006s
+
+2016-01-11 22:27:18 (5.04 MB/s) - 'admissions/current-stanford-students/phd-minor.html' saved [31964]
+
+--2016-01-11 22:27:18--  http://www-cs.stanford.edu/admissions/reapplying
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions/reapplying.html'
+
+     0K .......... .......... ..........                       14.1M=0.002s
+
+2016-01-11 22:27:18 (14.1 MB/s) - 'admissions/reapplying.html' saved [30801]
+
+--2016-01-11 22:27:18--  http://www-cs.stanford.edu/admissions/ms-versus-phd
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions/ms-versus-phd.html'
+
+     0K .......... .......... ..........                       5.97M=0.005s
+
+2016-01-11 22:27:18 (5.97 MB/s) - 'admissions/ms-versus-phd.html' saved [31286]
+
+--2016-01-11 22:27:18--  http://www-cs.stanford.edu/admissions/faq
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions/faq.html'
+
+     0K .......... .......... .......... .......... .......... 3.75M
+    50K ........                                               4.87M=0.01s
+
+2016-01-11 22:27:19 (3.88 MB/s) - 'admissions/faq.html' saved [59517]
+
+--2016-01-11 22:27:19--  http://www-cs.stanford.edu/admissions/visiting-cs
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions/visiting-cs.html'
+
+     0K .......... .......... ..........                       8.92M=0.003s
+
+2016-01-11 22:27:19 (8.92 MB/s) - 'admissions/visiting-cs.html' saved [31034]
+
+--2016-01-11 22:27:19--  http://www-cs.stanford.edu/admissions/contact-us
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'admissions/contact-us.html'
+
+     0K .......... .......... .........                        6.51M=0.004s
+
+2016-01-11 22:27:19 (6.51 MB/s) - 'admissions/contact-us.html' saved [30346]
+
+--2016-01-11 22:27:19--  http://www-cs.stanford.edu/csdcf
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf.html'
+
+     0K .......... .......... ........                         6.33M=0.004s
+
+2016-01-11 22:27:19 (6.33 MB/s) - 'csdcf.html' saved [29430]
+
+--2016-01-11 22:27:19--  http://www-cs.stanford.edu/csdcf/about-us
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/about-us.html'
+
+     0K .......... .......... .........                        1.60M=0.02s
+
+2016-01-11 22:27:20 (1.60 MB/s) - 'csdcf/about-us.html' saved [30570]
+
+--2016-01-11 22:27:20--  http://www-cs.stanford.edu/csdcf/computing-environment
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/computing-environment.html'
+
+     0K .......... .......... .......... ..                    5.16M=0.006s
+
+2016-01-11 22:27:20 (5.16 MB/s) - 'csdcf/computing-environment.html' saved [33158]
+
+--2016-01-11 22:27:20--  http://www-cs.stanford.edu/computing-guide
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide.html'
+
+     0K .......... .......... ..........                       5.07M=0.006s
+
+2016-01-11 22:27:20 (5.07 MB/s) - 'computing-guide.html' saved [30863]
+
+--2016-01-11 22:27:20--  http://www-cs.stanford.edu/computing-guide/overview
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/overview.html'
+
+     0K .......... .......... .......... .....                 6.05M=0.006s
+
+2016-01-11 22:27:20 (6.05 MB/s) - 'computing-guide/overview.html' saved [36246]
+
+--2016-01-11 22:27:20--  http://www-cs.stanford.edu/computing-guide/access
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/access.html'
+
+     0K .......... .......... ..........                       3.71M=0.008s
+
+2016-01-11 22:27:21 (3.71 MB/s) - 'computing-guide/access.html' saved [31607]
+
+--2016-01-11 22:27:21--  http://www-cs.stanford.edu/computing-guide/access/security
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/access/security.html'
+
+     0K .......... .......... .......... ....                  5.87M=0.006s
+
+2016-01-11 22:27:21 (5.87 MB/s) - 'computing-guide/access/security.html' saved [35155]
+
+--2016-01-11 22:27:21--  http://www-cs.stanford.edu/computing-guide/access/csid
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/access/csid.html'
+
+     0K .......... .......... .......... .....                 5.34M=0.006s
+
+2016-01-11 22:27:21 (5.34 MB/s) - 'computing-guide/access/csid.html' saved [35932]
+
+--2016-01-11 22:27:21--  http://www-cs.stanford.edu/computing-guide/access/sunetid
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/access/sunetid.html'
+
+     0K .......... .......... .......... .                     3.33M=0.009s
+
+2016-01-11 22:27:21 (3.33 MB/s) - 'computing-guide/access/sunetid.html' saved [32235]
+
+--2016-01-11 22:27:21--  http://www-cs.stanford.edu/computing-guide/access/shell-access-ssh
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/access/shell-access-ssh.html'
+
+     0K .......... .......... .......... .                     6.81M=0.005s
+
+2016-01-11 22:27:22 (6.81 MB/s) - 'computing-guide/access/shell-access-ssh.html' saved [32385]
+
+--2016-01-11 22:27:22--  http://www-cs.stanford.edu/computing-guide/networking
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/networking.html'
+
+     0K .......... .......... .......... ......                4.51M=0.008s
+
+2016-01-11 22:27:22 (4.51 MB/s) - 'computing-guide/networking.html' saved [37438]
+
+--2016-01-11 22:27:22--  http://www-cs.stanford.edu/computing-guide/email
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/email.html'
+
+     0K .......... .......... ..........                       8.86M=0.003s
+
+2016-01-11 22:27:22 (8.86 MB/s) - 'computing-guide/email.html' saved [31478]
+
+--2016-01-11 22:27:22--  http://www-cs.stanford.edu/computing-guide/email/client-settings
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/email/client-settings.html'
+
+     0K .......... .......... .......... ......                4.24M=0.008s
+
+2016-01-11 22:27:23 (4.24 MB/s) - 'computing-guide/email/client-settings.html' saved [36981]
+
+--2016-01-11 22:27:23--  http://www-cs.stanford.edu/computing-guide/email/forwarding
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/email/forwarding.html'
+
+     0K .......... .......... .......... .                     7.27M=0.004s
+
+2016-01-11 22:27:23 (7.27 MB/s) - 'computing-guide/email/forwarding.html' saved [32170]
+
+--2016-01-11 22:27:23--  http://www-cs.stanford.edu/computing-guide/email/headers
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/email/headers.html'
+
+     0K .......... .......... .......... ........              5.17M=0.007s
+
+2016-01-11 22:27:23 (5.17 MB/s) - 'computing-guide/email/headers.html' saved [39596]
+
+--2016-01-11 22:27:23--  http://www-cs.stanford.edu/computing-guide/email/overview
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/email/overview.html'
+
+     0K .......... .......... .......... ...                   7.88M=0.004s
+
+2016-01-11 22:27:24 (7.88 MB/s) - 'computing-guide/email/overview.html' saved [34796]
+
+--2016-01-11 22:27:24--  http://www-cs.stanford.edu/computing-guide/email/spam-filtering
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/email/spam-filtering.html'
+
+     0K .......... .......... .......... ........              6.79M=0.006s
+
+2016-01-11 22:27:24 (6.79 MB/s) - 'computing-guide/email/spam-filtering.html' saved [39587]
+
+--2016-01-11 22:27:24--  http://www-cs.stanford.edu/computing-guide/web-pages
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/web-pages.html'
+
+     0K .......... .......... .......... ..                    11.2M=0.003s
+
+2016-01-11 22:27:24 (11.2 MB/s) - 'computing-guide/web-pages.html' saved [33518]
+
+--2016-01-11 22:27:24--  http://www-cs.stanford.edu/computing-guide/printing
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/printing.html'
+
+     0K .......... .......... .......... .......               8.38M=0.004s
+
+2016-01-11 22:27:24 (8.38 MB/s) - 'computing-guide/printing.html' saved [38093]
+
+--2016-01-11 22:27:24--  http://www-cs.stanford.edu/computing-guide/afs
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/afs.html'
+
+     0K .......... .......... .......... ....                  8.08M=0.004s
+
+2016-01-11 22:27:25 (8.08 MB/s) - 'computing-guide/afs.html' saved [35713]
+
+--2016-01-11 22:27:25--  http://www-cs.stanford.edu/computing-guide/afs/afs-client-installation
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/afs/afs-client-installation.html'
+
+     0K .......... .......... .......... ..                    8.15M=0.004s
+
+2016-01-11 22:27:25 (8.15 MB/s) - 'computing-guide/afs/afs-client-installation.html' saved [33737]
+
+--2016-01-11 22:27:25--  http://www-cs.stanford.edu/computing-guide/afs/accessing-afs
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/afs/accessing-afs.html'
+
+     0K .......... .......... .......... .                     5.06M=0.006s
+
+2016-01-11 22:27:25 (5.06 MB/s) - 'computing-guide/afs/accessing-afs.html' saved [32279]
+
+--2016-01-11 22:27:25--  http://www-cs.stanford.edu/computing-guide/afs/batch-and-cron-jobs
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/afs/batch-and-cron-jobs.html'
+
+     0K .......... .......... .......... ...                   6.37M=0.005s
+
+2016-01-11 22:27:26 (6.37 MB/s) - 'computing-guide/afs/batch-and-cron-jobs.html' saved [33812]
+
+--2016-01-11 22:27:26--  http://www-cs.stanford.edu/computing-guide/afs/command-reference
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/afs/command-reference.html'
+
+     0K .......... .......... .......... ....                  9.47M=0.004s
+
+2016-01-11 22:27:26 (9.47 MB/s) - 'computing-guide/afs/command-reference.html' saved [34952]
+
+--2016-01-11 22:27:26--  http://www-cs.stanford.edu/computing-guide/afs/primer
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/afs/primer.html'
+
+     0K .......... .......... .......... .......... .......... 5.99M
+    50K ........                                               6.41M=0.009s
+
+2016-01-11 22:27:26 (6.05 MB/s) - 'computing-guide/afs/primer.html' saved [59889]
+
+--2016-01-11 22:27:26--  http://www-cs.stanford.edu/computing-guide/security-0
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/security-0.html'
+
+     0K .......... .......... ..........                       6.19M=0.005s
+
+2016-01-11 22:27:26 (6.19 MB/s) - 'computing-guide/security-0.html' saved [31487]
+
+--2016-01-11 22:27:26--  http://www-cs.stanford.edu/computing-guide/usenet
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/usenet.html'
+
+     0K .......... .......... .......... .                     4.72M=0.007s
+
+2016-01-11 22:27:27 (4.72 MB/s) - 'computing-guide/usenet.html' saved [32621]
+
+--2016-01-11 22:27:27--  http://www-cs.stanford.edu/computing-guide/usenet/setup-mac
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/usenet/setup-mac.html'
+
+     0K .......... .......... .......... ......                4.05M=0.009s
+
+2016-01-11 22:27:27 (4.05 MB/s) - 'computing-guide/usenet/setup-mac.html' saved [37507]
+
+--2016-01-11 22:27:27--  http://www-cs.stanford.edu/computing-guide/usenet/setup-windows
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'computing-guide/usenet/setup-windows.html'
+
+     0K .......... .......... .......... ......                4.59M=0.008s
+
+2016-01-11 22:27:27 (4.59 MB/s) - 'computing-guide/usenet/setup-windows.html' saved [37499]
+
+--2016-01-11 22:27:27--  http://www-cs.stanford.edu/csdcf/help
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/help.html'
+
+     0K .......... .......... .........                        3.20M=0.009s
+
+2016-01-11 22:27:27 (3.20 MB/s) - 'csdcf/help.html' saved [30141]
+
+--2016-01-11 22:27:27--  http://www-cs.stanford.edu/ip
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'ip.html'
+
+     0K .......... .......... .......... .....                 5.30M=0.007s
+
+2016-01-11 22:27:28 (5.30 MB/s) - 'ip.html' saved [36350]
+
+--2016-01-11 22:27:28--  http://www-cs.stanford.edu/csdcf/policies
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/policies.html'
+
+     0K .......... .......... ........                         5.86M=0.005s
+
+2016-01-11 22:27:28 (5.86 MB/s) - 'csdcf/policies.html' saved [29647]
+
+--2016-01-11 22:27:28--  http://www-cs.stanford.edu/csdcf/policies/privileged-access-policy
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/policies/privileged-access-policy.html'
+
+     0K .......... .......... .......... ......                4.00M=0.009s
+
+2016-01-11 22:27:28 (4.00 MB/s) - 'csdcf/policies/privileged-access-policy.html' saved [37257]
+
+--2016-01-11 22:27:28--  http://www-cs.stanford.edu/csdcf/policies/server-hosting
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/policies/server-hosting.html'
+
+     0K .......... .......... .........                        6.25M=0.005s
+
+2016-01-11 22:27:29 (6.25 MB/s) - 'csdcf/policies/server-hosting.html' saved [30502]
+
+--2016-01-11 22:27:29--  http://www-cs.stanford.edu/csdcf/policies/xenon-student-account-policies
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/policies/xenon-student-account-policies.html'
+
+     0K .......... .......... .......... ....                  4.63M=0.007s
+
+2016-01-11 22:27:29 (4.63 MB/s) - 'csdcf/policies/xenon-student-account-policies.html' saved [35143]
+
+--2016-01-11 22:27:29--  http://www-cs.stanford.edu/csdcf/research-clusters
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/research-clusters.html'
+
+     0K .......... .......... ........                         1.54M=0.02s
+
+2016-01-11 22:27:29 (1.54 MB/s) - 'csdcf/research-clusters.html' saved [29568]
+
+--2016-01-11 22:27:29--  http://www-cs.stanford.edu/csdcf/sail-compute-cluster
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/sail-compute-cluster.html'
+
+     0K .......... .......... .......... ..........            5.27M=0.007s
+
+2016-01-11 22:27:29 (5.27 MB/s) - 'csdcf/sail-compute-cluster.html' saved [41157]
+
+--2016-01-11 22:27:29--  http://www-cs.stanford.edu/csdcf/sail-compute-cluster/examples
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/sail-compute-cluster/examples.html'
+
+     0K .......... .......... .......... .....                 4.62M=0.008s
+
+2016-01-11 22:27:30 (4.62 MB/s) - 'csdcf/sail-compute-cluster/examples.html' saved [36748]
+
+--2016-01-11 22:27:30--  http://www-cs.stanford.edu/csdcf/sail-compute-cluster/faq
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/sail-compute-cluster/faq.html'
+
+     0K .......... .......... ..........                       7.29M=0.004s
+
+2016-01-11 22:27:30 (7.29 MB/s) - 'csdcf/sail-compute-cluster/faq.html' saved [30844]
+
+--2016-01-11 22:27:30--  http://www-cs.stanford.edu/csdcf/sail-compute-cluster/hardware
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/sail-compute-cluster/hardware.html'
+
+     0K .......... .......... .......... ......                5.61M=0.006s
+
+2016-01-11 22:27:30 (5.61 MB/s) - 'csdcf/sail-compute-cluster/hardware.html' saved [37080]
+
+--2016-01-11 22:27:30--  http://www-cs.stanford.edu/csdcf/services
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/services.html'
+
+     0K .......... .......... .......... ..                    12.5M=0.003s
+
+2016-01-11 22:27:30 (12.5 MB/s) - 'csdcf/services.html' saved [33161]
+
+--2016-01-11 22:27:30--  http://www-cs.stanford.edu/csdcf/team
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'csdcf/team.html'
+
+     0K .......... .......... .........                        7.09M=0.004s
+
+2016-01-11 22:27:31 (7.09 MB/s) - 'csdcf/team.html' saved [29852]
+
+--2016-01-11 22:27:31--  http://www-cs.stanford.edu/cs50
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'cs50.html'
+
+     0K .......... .......... .......... .........             7.05M=0.006s
+
+2016-01-11 22:27:31 (7.05 MB/s) - 'cs50.html' saved [40713]
+
+--2016-01-11 22:27:31--  http://www-cs.stanford.edu/events/calendar
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar.1.html'
+
+     0K .......... .......... .......... .......... .......... 4.00M
+    50K .......... .......... .......... .......... .......... 4.23M
+   100K .......                                                9.25M=0.02s
+
+2016-01-11 22:27:32 (4.28 MB/s) - 'events/calendar.1.html' saved [110200]
+
+--2016-01-11 22:27:32--  http://www-cs.stanford.edu/events/calendar/week
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/week.html'
+
+     0K .......... .......... .......... .......... .......... 4.53M
+    50K .......... .......... .......... .......... .......... 5.13M
+   100K .......... .......... .......... .......... .....      4.32M=0.03s
+
+2016-01-11 22:27:32 (4.64 MB/s) - 'events/calendar/week.html' saved [149182]
+
+--2016-01-11 22:27:32--  http://www-cs.stanford.edu/events/calendar/day
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day.html'
+
+     0K .......... .......... .......... .......... .....      4.25M=0.01s
+
+2016-01-11 22:27:32 (4.25 MB/s) - 'events/calendar/day.html' saved [46433]
+
+--2016-01-11 22:27:32--  http://www-cs.stanford.edu/events/calendar/year
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/year.html'
+
+     0K .......... .......... .......... .......... .......... 3.79M
+    50K .......... .......... .......... .......... .......... 4.39M
+   100K .......... .......... ....                             4.94M=0.03s
+
+2016-01-11 22:27:33 (4.21 MB/s) - 'events/calendar/year.html' saved [127360]
+
+--2016-01-11 22:27:33--  http://www-cs.stanford.edu/events/calendar/month/2015-12
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/month/2015-12.html'
+
+     0K .......... .......... .......... .......... .....      4.13M=0.01s
+
+2016-01-11 22:27:34 (4.13 MB/s) - 'events/calendar/month/2015-12.html' saved [46490]
+
+--2016-01-11 22:27:34--  http://www-cs.stanford.edu/events/calendar/month/2016-02
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/month/2016-02.html'
+
+     0K .......... .......... .......... .......... .......... 4.30M
+    50K .......... .......... ..                               3.45M=0.02s
+
+2016-01-11 22:27:34 (3.99 MB/s) - 'events/calendar/month/2016-02.html' saved [74431]
+
+--2016-01-11 22:27:34--  http://www-cs.stanford.edu/events/calendar/day/2016-01-11
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-11.html'
+
+     0K .......... .......... .......... .......... .....      3.42M=0.01s
+
+2016-01-11 22:27:34 (3.42 MB/s) - 'events/calendar/day/2016-01-11.html' saved [46503]
+
+--2016-01-11 22:27:34--  http://www-cs.stanford.edu/events/calendar/day/2016-01-12
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-12.html'
+
+     0K .......... .......... .......... .......... ........   3.49M=0.01s
+
+2016-01-11 22:27:35 (3.49 MB/s) - 'events/calendar/day/2016-01-12.html' saved [49695]
+
+--2016-01-11 22:27:35--  http://www-cs.stanford.edu/events/calendar/day/2016-01-13
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-13.html'
+
+     0K .......... .......... .......... .......... .......... 5.13M
+    50K ....                                                   6.20M=0.01s
+
+2016-01-11 22:27:35 (5.19 MB/s) - 'events/calendar/day/2016-01-13.html' saved [55325]
+
+--2016-01-11 22:27:35--  http://www-cs.stanford.edu/events/calendar/day/2016-01-14
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-14.html'
+
+     0K .......... .......... .......... .......... .........  4.25M=0.01s
+
+2016-01-11 22:27:35 (4.25 MB/s) - 'events/calendar/day/2016-01-14.html' saved [50396]
+
+--2016-01-11 22:27:35--  http://www-cs.stanford.edu/events/calendar/day/2016-01-15
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-15.html'
+
+     0K .......... .......... .......... .......... .......    4.89M=0.01s
+
+2016-01-11 22:27:36 (4.89 MB/s) - 'events/calendar/day/2016-01-15.html' saved [48789]
+
+--2016-01-11 22:27:36--  http://www-cs.stanford.edu/events/11-mock-interview-workshop
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/11-mock-interview-workshop.html'
+
+     0K .......... .......... .........                        6.50M=0.004s
+
+2016-01-11 22:27:36 (6.50 MB/s) - 'events/11-mock-interview-workshop.html' saved [30281]
+
+--2016-01-11 22:27:36--  http://www-cs.stanford.edu/events/yahoo-meet-greet
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/yahoo-meet-greet.html'
+
+     0K .......... .......... .........                        6.16M=0.005s
+
+2016-01-11 22:27:36 (6.16 MB/s) - 'events/yahoo-meet-greet.html' saved [29699]
+
+--2016-01-11 22:27:36--  http://www-cs.stanford.edu/events/gm-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/gm-info-session.html'
+
+     0K .......... .......... .........                        8.68M=0.003s
+
+2016-01-11 22:27:36 (8.68 MB/s) - 'events/gm-info-session.html' saved [30421]
+
+--2016-01-11 22:27:36--  http://www-cs.stanford.edu/events/icme-first-year-seminar-series-cme-300-tba
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/icme-first-year-seminar-series-cme-300-tba.html'
+
+     0K .......... .......... .........                        13.3M=0.002s
+
+2016-01-11 22:27:37 (13.3 MB/s) - 'events/icme-first-year-seminar-series-cme-300-tba.html' saved [30302]
+
+--2016-01-11 22:27:37--  http://www-cs.stanford.edu/events/university-oral-examination-ultraflow-dual-mode-access-network-physical-and-system
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/university-oral-examination-ultraflow-dual-mode-access-network-physical-and-system.html'
+
+     0K .......... .......... .......... ..                    4.30M=0.007s
+
+2016-01-11 22:27:37 (4.30 MB/s) - 'events/university-oral-examination-ultraflow-dual-mode-access-network-physical-and-system.html' saved [33011]
+
+--2016-01-11 22:27:37--  http://www-cs.stanford.edu/events/perspectives-assistive-technology-needfinding-and-context-discovery-assistive-technologies
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/perspectives-assistive-technology-needfinding-and-context-discovery-assistive-technologies.html'
+
+     0K .......... .......... .......... .                      509K=0.06s
+
+2016-01-11 22:27:37 (509 KB/s) - 'events/perspectives-assistive-technology-needfinding-and-context-discovery-assistive-technologies.html' saved [32427]
+
+--2016-01-11 22:27:37--  http://www-cs.stanford.edu/events/snapchat-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/snapchat-info-session.html'
+
+     0K .......... .......... .........                        5.07M=0.006s
+
+2016-01-11 22:27:37 (5.07 MB/s) - 'events/snapchat-info-session.html' saved [30213]
+
+--2016-01-11 22:27:37--  http://www-cs.stanford.edu/events/visa-resume-submission-deadline-career-fair
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/visa-resume-submission-deadline-career-fair.html'
+
+     0K .......... .......... ........                         8.00M=0.003s
+
+2016-01-11 22:27:38 (8.00 MB/s) - 'events/visa-resume-submission-deadline-career-fair.html' saved [29261]
+
+--2016-01-11 22:27:38--  http://www-cs.stanford.edu/events/a9-resume-submission-deadline
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/a9-resume-submission-deadline.html'
+
+     0K .......... .......... ........                         12.3M=0.002s
+
+2016-01-11 22:27:38 (12.3 MB/s) - 'events/a9-resume-submission-deadline.html' saved [29156]
+
+--2016-01-11 22:27:38--  http://www-cs.stanford.edu/events/citadel-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/citadel-interviews.html'
+
+     0K .......... .......... ........                         4.19M=0.007s
+
+2016-01-11 22:27:38 (4.19 MB/s) - 'events/citadel-interviews.html' saved [29077]
+
+--2016-01-11 22:27:38--  http://www-cs.stanford.edu/events/career-strategy-workshop-how-become-career-fair-champion
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/career-strategy-workshop-how-become-career-fair-champion.html'
+
+     0K .......... .......... ..........                       5.72M=0.005s
+
+2016-01-11 22:27:38 (5.72 MB/s) - 'events/career-strategy-workshop-how-become-career-fair-champion.html' saved [30992]
+
+--2016-01-11 22:27:38--  http://www-cs.stanford.edu/events/icme-departmental-seminar-cme-500
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/icme-departmental-seminar-cme-500.html'
+
+     0K .......... .......... .........                        8.62M=0.003s
+
+2016-01-11 22:27:39 (8.62 MB/s) - 'events/icme-departmental-seminar-cme-500.html' saved [30285]
+
+--2016-01-11 22:27:39--  http://www-cs.stanford.edu/events/airbnb-resume-submission-deadline-career-fair
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/airbnb-resume-submission-deadline-career-fair.html'
+
+     0K .......... .......... ........                         6.25M=0.004s
+
+2016-01-11 22:27:39 (6.25 MB/s) - 'events/airbnb-resume-submission-deadline-career-fair.html' saved [29275]
+
+--2016-01-11 22:27:39--  http://www-cs.stanford.edu/events/adobe-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/adobe-interviews.html'
+
+     0K .......... .......... ........                         6.24M=0.004s
+
+2016-01-11 22:27:39 (6.24 MB/s) - 'events/adobe-interviews.html' saved [29065]
+
+--2016-01-11 22:27:39--  http://www-cs.stanford.edu/events/gm-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/gm-interviews.html'
+
+     0K .......... .......... ........                         10.3M=0.003s
+
+2016-01-11 22:27:40 (10.3 MB/s) - 'events/gm-interviews.html' saved [29042]
+
+--2016-01-11 22:27:40--  http://www-cs.stanford.edu/events/workday-resume-submission-deadline-career-fair
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/workday-resume-submission-deadline-career-fair.html'
+
+     0K .......... .......... ........                         3.31M=0.008s
+
+2016-01-11 22:27:40 (3.31 MB/s) - 'events/workday-resume-submission-deadline-career-fair.html' saved [29282]
+
+--2016-01-11 22:27:40--  http://www-cs.stanford.edu/events/visa-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/visa-interviews.html'
+
+     0K .......... .......... ........                         6.39M=0.004s
+
+2016-01-11 22:27:40 (6.39 MB/s) - 'events/visa-interviews.html' saved [29058]
+
+--2016-01-11 22:27:40--  http://www-cs.stanford.edu/events/workday-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/workday-interviews.html'
+
+     0K .......... .......... ........                         7.80M=0.004s
+
+2016-01-11 22:27:40 (7.80 MB/s) - 'events/workday-interviews.html' saved [29077]
+
+--2016-01-11 22:27:40--  http://www-cs.stanford.edu/events/groupon-resume-submission-deadline
+Connecting to www-cs.stanford.edu|171.64.64.64|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/groupon-resume-submission-deadline.html'
+
+     0K .......... .......... ........                         5.91M=0.005s
+
+2016-01-11 22:27:41 (5.91 MB/s) - 'events/groupon-resume-submission-deadline.html' saved [29192]
+
+--2016-01-11 22:27:41--  http://www-cs.stanford.edu/events/texas-instruments-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/texas-instruments-interviews.html'
+
+     0K .......... .......... ........                         4.76M=0.006s
+
+2016-01-11 22:27:41 (4.76 MB/s) - 'events/texas-instruments-interviews.html' saved [29149]
+
+--2016-01-11 22:27:41--  http://www-cs.stanford.edu/events/twitter-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/twitter-interviews.html'
+
+     0K .......... .......... ........                         4.89M=0.006s
+
+2016-01-11 22:27:41 (4.89 MB/s) - 'events/twitter-interviews.html' saved [29077]
+
+--2016-01-11 22:27:41--  http://www-cs.stanford.edu/events/cisco-resume-submission-deadline
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/cisco-resume-submission-deadline.html'
+
+     0K .......... .......... ........                         6.39M=0.004s
+
+2016-01-11 22:27:41 (6.39 MB/s) - 'events/cisco-resume-submission-deadline.html' saved [29178]
+
+--2016-01-11 22:27:41--  http://www-cs.stanford.edu/events/snapchat-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/snapchat-interviews.html'
+
+     0K .......... .......... ........                         5.15M=0.005s
+
+2016-01-11 22:27:42 (5.15 MB/s) - 'events/snapchat-interviews.html' saved [29086]
+
+--2016-01-11 22:27:42--  http://www-cs.stanford.edu/events/accenture-office-hours
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/accenture-office-hours.html'
+
+     0K .......... .......... .........                        3.52M=0.008s
+
+2016-01-11 22:27:42 (3.52 MB/s) - 'events/accenture-office-hours.html' saved [29965]
+
+--2016-01-11 22:27:42--  http://www-cs.stanford.edu/events/hci-seminar-affect-affordances-and-psychology-social-media-prof-jeff-hancock-stanford
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/hci-seminar-affect-affordances-and-psychology-social-media-prof-jeff-hancock-stanford.html'
+
+     0K .......... .......... .......... .                     5.50M=0.006s
+
+2016-01-11 22:27:42 (5.50 MB/s) - 'events/hci-seminar-affect-affordances-and-psychology-social-media-prof-jeff-hancock-stanford.html' saved [32316]
+
+--2016-01-11 22:27:42--  http://www-cs.stanford.edu/events/hci-seminar
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/hci-seminar.html'
+
+     0K .......... .......... .........                        4.64M=0.006s
+
+2016-01-11 22:27:43 (4.64 MB/s) - 'events/hci-seminar.html' saved [29797]
+
+--2016-01-11 22:27:43--  http://www-cs.stanford.edu/events/tcs-resume-submission-deadline-career-fair
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/tcs-resume-submission-deadline-career-fair.html'
+
+     0K .......... .......... ........                         6.14M=0.005s
+
+2016-01-11 22:27:43 (6.14 MB/s) - 'events/tcs-resume-submission-deadline-career-fair.html' saved [29254]
+
+--2016-01-11 22:27:43--  http://www-cs.stanford.edu/events/go-daddy-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/go-daddy-interviews.html'
+
+     0K .......... .......... ........                         3.42M=0.008s
+
+2016-01-11 22:27:43 (3.42 MB/s) - 'events/go-daddy-interviews.html' saved [29086]
+
+--2016-01-11 22:27:43--  http://www-cs.stanford.edu/events/twitter-resume-submission-deadline-career-fair
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/twitter-resume-submission-deadline-career-fair.html'
+
+     0K .......... .......... ........                         3.62M=0.008s
+
+2016-01-11 22:27:44 (3.62 MB/s) - 'events/twitter-resume-submission-deadline-career-fair.html' saved [29282]
+
+--2016-01-11 22:27:44--  http://www-cs.stanford.edu/events/airbnb-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/airbnb-interviews.html'
+
+     0K .......... .......... ........                         5.60M=0.005s
+
+2016-01-11 22:27:44 (5.60 MB/s) - 'events/airbnb-interviews.html' saved [29072]
+
+--2016-01-11 22:27:44--  http://www-cs.stanford.edu/events/texas-instruments-resume-submission-deadline-career-fair
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/texas-instruments-resume-submission-deadline-career-fair.html'
+
+     0K .......... .......... ........                         2.35M=0.01s
+
+2016-01-11 22:27:44 (2.35 MB/s) - 'events/texas-instruments-resume-submission-deadline-career-fair.html' saved [29352]
+
+--2016-01-11 22:27:44--  http://www-cs.stanford.edu/events/citadel-office-hours
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/citadel-office-hours.html'
+
+     0K .......... .......... .........                        3.85M=0.007s
+
+2016-01-11 22:27:44 (3.85 MB/s) - 'events/citadel-office-hours.html' saved [30282]
+
+--2016-01-11 22:27:44--  http://www-cs.stanford.edu/events/perspectives-assistive-technology-bridging-gap-between-consumers-and-products-rehabilitation
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/perspectives-assistive-technology-bridging-gap-between-consumers-and-products-rehabilitation.html'
+
+     0K .......... .......... .......... .                     5.13M=0.006s
+
+2016-01-11 22:27:45 (5.13 MB/s) - 'events/perspectives-assistive-technology-bridging-gap-between-consumers-and-products-rehabilitation.html' saved [32714]
+
+--2016-01-11 22:27:45--  http://www-cs.stanford.edu/events/vmware-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/vmware-info-session.html'
+
+     0K .......... .......... ..........                       6.32M=0.005s
+
+2016-01-11 22:27:45 (6.32 MB/s) - 'events/vmware-info-session.html' saved [31426]
+
+--2016-01-11 22:27:45--  http://www-cs.stanford.edu/events/gm-resume-submission-deadline-career-fair
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/gm-resume-submission-deadline-career-fair.html'
+
+     0K .......... .......... ........                         3.30M=0.008s
+
+2016-01-11 22:27:45 (3.30 MB/s) - 'events/gm-resume-submission-deadline-career-fair.html' saved [29247]
+
+--2016-01-11 22:27:45--  http://www-cs.stanford.edu/events/do-daddy-resume-submission-deadline-career-fair
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/do-daddy-resume-submission-deadline-career-fair.html'
+
+     0K .......... .......... ........                         3.76M=0.007s
+
+2016-01-11 22:27:46 (3.76 MB/s) - 'events/do-daddy-resume-submission-deadline-career-fair.html' saved [29289]
+
+--2016-01-11 22:27:46--  http://www-cs.stanford.edu/events/adobe-resume-submission-deadline-career-fair
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/adobe-resume-submission-deadline-career-fair.html'
+
+     0K .......... .......... ........                         5.07M=0.006s
+
+2016-01-11 22:27:46 (5.07 MB/s) - 'events/adobe-resume-submission-deadline-career-fair.html' saved [29274]
+
+--2016-01-11 22:27:46--  http://www-cs.stanford.edu/events/zazzle-resume-submission-deadline
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/zazzle-resume-submission-deadline.html'
+
+     0K .......... .......... ........                         4.84M=0.006s
+
+2016-01-11 22:27:46 (4.84 MB/s) - 'events/zazzle-resume-submission-deadline.html' saved [29185]
+
+--2016-01-11 22:27:46--  http://www-cs.stanford.edu/events/innit-resume-submission-deadline
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/innit-resume-submission-deadline.html'
+
+     0K .......... .......... ........                         5.74M=0.005s
+
+2016-01-11 22:27:47 (5.74 MB/s) - 'events/innit-resume-submission-deadline.html' saved [29178]
+
+--2016-01-11 22:27:47--  http://www-cs.stanford.edu/events/snapchat-resume-submission-deadline-career-fair
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/snapchat-resume-submission-deadline-career-fair.html'
+
+     0K .......... .......... ........                         5.66M=0.005s
+
+2016-01-11 22:27:47 (5.66 MB/s) - 'events/snapchat-resume-submission-deadline-career-fair.html' saved [29289]
+
+--2016-01-11 22:27:47--  http://www-cs.stanford.edu/events/de-shaw-resume-submission-deadline
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/de-shaw-resume-submission-deadline.html'
+
+     0K .......... .......... ........                         4.41M=0.006s
+
+2016-01-11 22:27:47 (4.41 MB/s) - 'events/de-shaw-resume-submission-deadline.html' saved [29198]
+
+--2016-01-11 22:27:47--  http://www-cs.stanford.edu/events/computer-forum-career-fair
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/computer-forum-career-fair.html'
+
+     0K .......... .......... .........                        1.65M=0.02s
+
+2016-01-11 22:27:47 (1.65 MB/s) - 'events/computer-forum-career-fair.html' saved [30533]
+
+--2016-01-11 22:27:47--  http://www-cs.stanford.edu/events/scien-colloquia-3d-computational-microscopy-professor-laura-waller-university-california
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/scien-colloquia-3d-computational-microscopy-professor-laura-waller-university-california.html'
+
+     0K .......... .......... .......... .                     5.57M=0.005s
+
+2016-01-11 22:27:48 (5.57 MB/s) - 'events/scien-colloquia-3d-computational-microscopy-professor-laura-waller-university-california.html' saved [32039]
+
+--2016-01-11 22:27:48--  http://www-cs.stanford.edu/events/bloomberg-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/bloomberg-info-session.html'
+
+     0K .......... .......... ..........                       5.10M=0.006s
+
+2016-01-11 22:27:48 (5.10 MB/s) - 'events/bloomberg-info-session.html' saved [31136]
+
+--2016-01-11 22:27:48--  http://www-cs.stanford.edu/events/citadel-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/citadel-info-session.html'
+
+     0K .......... .......... ..........                       5.72M=0.005s
+
+2016-01-11 22:27:48 (5.72 MB/s) - 'events/citadel-info-session.html' saved [30910]
+
+--2016-01-11 22:27:48--  http://www-cs.stanford.edu/events/calendar/day/2016-01-18
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-18.html'
+
+     0K .......... .......... .......... .......... ...        4.63M=0.009s
+
+2016-01-11 22:27:49 (4.63 MB/s) - 'events/calendar/day/2016-01-18.html' saved [44737]
+
+--2016-01-11 22:27:49--  http://www-cs.stanford.edu/events/calendar/day/2016-01-19
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-19.html'
+
+     0K .......... .......... .......... .......... .....      5.05M=0.009s
+
+2016-01-11 22:27:49 (5.05 MB/s) - 'events/calendar/day/2016-01-19.html' saved [46937]
+
+--2016-01-11 22:27:49--  http://www-cs.stanford.edu/events/calendar/day/2016-01-20
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-20.html'
+
+     0K .......... .......... .......... .......... .........  4.17M=0.01s
+
+2016-01-11 22:27:49 (4.17 MB/s) - 'events/calendar/day/2016-01-20.html' saved [51033]
+
+--2016-01-11 22:27:49--  http://www-cs.stanford.edu/events/calendar/day/2016-01-21
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-21.html'
+
+     0K .......... .......... .......... .......... .......    2.80M=0.02s
+
+2016-01-11 22:27:50 (2.80 MB/s) - 'events/calendar/day/2016-01-21.html' saved [48842]
+
+--2016-01-11 22:27:50--  http://www-cs.stanford.edu/events/calendar/day/2016-01-22
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-22.html'
+
+     0K .......... .......... .......... .......... ....       3.43M=0.01s
+
+2016-01-11 22:27:50 (3.43 MB/s) - 'events/calendar/day/2016-01-22.html' saved [45589]
+
+--2016-01-11 22:27:50--  http://www-cs.stanford.edu/events/ixl-learning-resume-submission-deadline
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/ixl-learning-resume-submission-deadline.html'
+
+     0K .......... .......... ........                         4.06M=0.007s
+
+2016-01-11 22:27:50 (4.06 MB/s) - 'events/ixl-learning-resume-submission-deadline.html' saved [29224]
+
+--2016-01-11 22:27:50--  http://www-cs.stanford.edu/events/tcs-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/tcs-info-session.html'
+
+     0K .......... .......... .......... .                     4.24M=0.007s
+
+2016-01-11 22:27:51 (4.24 MB/s) - 'events/tcs-info-session.html' saved [32241]
+
+--2016-01-11 22:27:51--  http://www-cs.stanford.edu/events/perspectives-assistive-technology-perspectives-stanford-students-disability-edan-alexander
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/perspectives-assistive-technology-perspectives-stanford-students-disability-edan-alexander.html'
+
+     0K .......... .......... .......... ....                  4.97M=0.007s
+
+2016-01-11 22:27:51 (4.97 MB/s) - 'events/perspectives-assistive-technology-perspectives-stanford-students-disability-edan-alexander.html' saved [35220]
+
+--2016-01-11 22:27:51--  http://www-cs.stanford.edu/events/yelp-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/yelp-info-session.html'
+
+     0K .......... .......... ..........                       2.27M=0.01s
+
+2016-01-11 22:27:51 (2.27 MB/s) - 'events/yelp-info-session.html' saved [31082]
+
+--2016-01-11 22:27:51--  http://www-cs.stanford.edu/events/intuit-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/intuit-interviews.html'
+
+     0K .......... .......... ........                         6.31M=0.004s
+
+2016-01-11 22:27:52 (6.31 MB/s) - 'events/intuit-interviews.html' saved [29073]
+
+--2016-01-11 22:27:52--  http://www-cs.stanford.edu/events/ixl-learning-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/ixl-learning-interviews.html'
+
+     0K .......... .......... ........                         4.89M=0.006s
+
+2016-01-11 22:27:52 (4.89 MB/s) - 'events/ixl-learning-interviews.html' saved [29114]
+
+--2016-01-11 22:27:52--  http://www-cs.stanford.edu/events/google-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/google-interviews.html'
+
+     0K .......... .......... ........                         3.09M=0.009s
+
+2016-01-11 22:27:52 (3.09 MB/s) - 'events/google-interviews.html' saved [29070]
+
+--2016-01-11 22:27:52--  http://www-cs.stanford.edu/events/amazon-resume-submission-deadline
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/amazon-resume-submission-deadline.html'
+
+     0K .......... .......... ........                         3.58M=0.008s
+
+2016-01-11 22:27:52 (3.58 MB/s) - 'events/amazon-resume-submission-deadline.html' saved [29185]
+
+--2016-01-11 22:27:52--  http://www-cs.stanford.edu/events/zazzle-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/zazzle-interviews.html'
+
+     0K .......... .......... ........                         3.90M=0.007s
+
+2016-01-11 22:27:53 (3.90 MB/s) - 'events/zazzle-interviews.html' saved [29072]
+
+--2016-01-11 22:27:53--  http://www-cs.stanford.edu/events/hci-seminar-tba-marti-hearst-uc-berkeley
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/hci-seminar-tba-marti-hearst-uc-berkeley.html'
+
+     0K .......... .......... .........                        4.97M=0.006s
+
+2016-01-11 22:27:53 (4.97 MB/s) - 'events/hci-seminar-tba-marti-hearst-uc-berkeley.html' saved [30292]
+
+--2016-01-11 22:27:53--  http://www-cs.stanford.edu/events/de-shaw-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/de-shaw-interviews.html'
+
+     0K .......... .......... ........                         4.36M=0.006s
+
+2016-01-11 22:27:53 (4.36 MB/s) - 'events/de-shaw-interviews.html' saved [29080]
+
+--2016-01-11 22:27:53--  http://www-cs.stanford.edu/events/perspectives-assistive-technology-issues-human-interface-design-gary-m-berke-ms-cp-faaop
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/perspectives-assistive-technology-issues-human-interface-design-gary-m-berke-ms-cp-faaop.html'
+
+     0K .......... .......... ..........                       4.46M=0.007s
+
+2016-01-11 22:27:53 (4.46 MB/s) - 'events/perspectives-assistive-technology-issues-human-interface-design-gary-m-berke-ms-cp-faaop.html' saved [31486]
+
+--2016-01-11 22:27:53--  http://www-cs.stanford.edu/events/rocket-fuel-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/rocket-fuel-info-session.html'
+
+     0K .......... .......... .........                        5.53M=0.005s
+
+2016-01-11 22:27:54 (5.53 MB/s) - 'events/rocket-fuel-info-session.html' saved [30155]
+
+--2016-01-11 22:27:54--  http://www-cs.stanford.edu/events/parc-forum-making-shakey-worlds-first-intelligent-mobile-robot-peter-e-hart
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/parc-forum-making-shakey-worlds-first-intelligent-mobile-robot-peter-e-hart.html'
+
+     0K .......... .......... .......... .                     4.21M=0.007s
+
+2016-01-11 22:27:54 (4.21 MB/s) - 'events/parc-forum-making-shakey-worlds-first-intelligent-mobile-robot-peter-e-hart.html' saved [32045]
+
+--2016-01-11 22:27:54--  http://www-cs.stanford.edu/events/thumbtack-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/thumbtack-info-session.html'
+
+     0K .......... .......... .........                        4.18M=0.007s
+
+2016-01-11 22:27:54 (4.18 MB/s) - 'events/thumbtack-info-session.html' saved [30626]
+
+--2016-01-11 22:27:54--  http://www-cs.stanford.edu/events/tcs-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/tcs-interviews.html'
+
+     0K .......... .......... ........                         5.77M=0.005s
+
+2016-01-11 22:27:55 (5.77 MB/s) - 'events/tcs-interviews.html' saved [29052]
+
+--2016-01-11 22:27:55--  http://www-cs.stanford.edu/events/yelp-resume-submission-deadlie
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/yelp-resume-submission-deadlie.html'
+
+     0K .......... .......... ........                         5.37M=0.005s
+
+2016-01-11 22:27:55 (5.37 MB/s) - 'events/yelp-resume-submission-deadlie.html' saved [29164]
+
+--2016-01-11 22:27:55--  http://www-cs.stanford.edu/events/walmart-labs-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/walmart-labs-info-session.html'
+
+     0K .......... .......... ..........                       4.23M=0.007s
+
+2016-01-11 22:27:55 (4.23 MB/s) - 'events/walmart-labs-info-session.html' saved [31099]
+
+--2016-01-11 22:27:55--  http://www-cs.stanford.edu/events/scien-colloquia
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/scien-colloquia.html'
+
+     0K .......... .......... .........                        4.64M=0.006s
+
+2016-01-11 22:27:55 (4.64 MB/s) - 'events/scien-colloquia.html' saved [30172]
+
+--2016-01-11 22:27:55--  http://www-cs.stanford.edu/events/scien-colloquia-complex-real-time-high-fidelity-simulations-visual-computing-visiting
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/scien-colloquia-complex-real-time-high-fidelity-simulations-visual-computing-visiting.html'
+
+     0K .......... .......... .......... ..                    4.63M=0.007s
+
+2016-01-11 22:27:56 (4.63 MB/s) - 'events/scien-colloquia-complex-real-time-high-fidelity-simulations-visual-computing-visiting.html' saved [33006]
+
+--2016-01-11 22:27:56--  http://www-cs.stanford.edu/events/healthtap-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/healthtap-info-session.html'
+
+     0K .......... .......... ..........                       4.88M=0.006s
+
+2016-01-11 22:27:56 (4.88 MB/s) - 'events/healthtap-info-session.html' saved [30753]
+
+--2016-01-11 22:27:56--  http://www-cs.stanford.edu/events/accenture-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/accenture-info-session.html'
+
+     0K .......... .......... .........                        6.39M=0.004s
+
+2016-01-11 22:27:56 (6.39 MB/s) - 'events/accenture-info-session.html' saved [29985]
+
+--2016-01-11 22:27:56--  http://www-cs.stanford.edu/events/calendar/day/2016-01-25
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-25.html'
+
+     0K .......... .......... .......... .......... ....       3.82M=0.01s
+
+2016-01-11 22:27:57 (3.82 MB/s) - 'events/calendar/day/2016-01-25.html' saved [45212]
+
+--2016-01-11 22:27:57--  http://www-cs.stanford.edu/events/calendar/day/2016-01-26
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-26.html'
+
+     0K .......... .......... .......... .......... ....       3.74M=0.01s
+
+2016-01-11 22:27:57 (3.74 MB/s) - 'events/calendar/day/2016-01-26.html' saved [45278]
+
+--2016-01-11 22:27:57--  http://www-cs.stanford.edu/events/calendar/day/2016-01-27
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-27.html'
+
+     0K .......... .......... .......... .......... ......     2.20M=0.02s
+
+2016-01-11 22:27:57 (2.20 MB/s) - 'events/calendar/day/2016-01-27.html' saved [47721]
+
+--2016-01-11 22:27:57--  http://www-cs.stanford.edu/events/calendar/day/2016-01-28
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-28.html'
+
+     0K .......... .......... .......... .......... ......     3.21M=0.01s
+
+2016-01-11 22:27:58 (3.21 MB/s) - 'events/calendar/day/2016-01-28.html' saved [47177]
+
+--2016-01-11 22:27:58--  http://www-cs.stanford.edu/events/calendar/day/2016-01-29
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/calendar/day/2016-01-29.html'
+
+     0K .......... .......... .......... .......... ....       4.02M=0.01s
+
+2016-01-11 22:27:58 (4.02 MB/s) - 'events/calendar/day/2016-01-29.html' saved [45607]
+
+--2016-01-11 22:27:58--  http://www-cs.stanford.edu/events/microsoft-resume-submission-deadline
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/microsoft-resume-submission-deadline.html'
+
+     0K .......... .......... ........                         4.34M=0.006s
+
+2016-01-11 22:27:58 (4.34 MB/s) - 'events/microsoft-resume-submission-deadline.html' saved [29203]
+
+--2016-01-11 22:27:58--  http://www-cs.stanford.edu/events/perspectives-assistive-technology-personal-and-historical-perspective-creative-thinking-and
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/perspectives-assistive-technology-personal-and-historical-perspective-creative-thinking-and.html'
+
+     0K .......... .......... .......... .                     5.02M=0.006s
+
+2016-01-11 22:27:59 (5.02 MB/s) - 'events/perspectives-assistive-technology-personal-and-historical-perspective-creative-thinking-and.html' saved [32663]
+
+--2016-01-11 22:27:59--  http://www-cs.stanford.edu/events/yelp-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/yelp-interviews.html'
+
+     0K .......... .......... ........                         5.31M=0.005s
+
+2016-01-11 22:27:59 (5.31 MB/s) - 'events/yelp-interviews.html' saved [29059]
+
+--2016-01-11 22:27:59--  http://www-cs.stanford.edu/events/samsung-resume-submission-deadline
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/samsung-resume-submission-deadline.html'
+
+     0K .......... .......... ........                         6.72M=0.004s
+
+2016-01-11 22:27:59 (6.72 MB/s) - 'events/samsung-resume-submission-deadline.html' saved [29191]
+
+--2016-01-11 22:27:59--  http://www-cs.stanford.edu/events/a9-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/a9-interviews.html'
+
+     0K .......... .......... ........                         3.71M=0.007s
+
+2016-01-11 22:27:59 (3.71 MB/s) - 'events/a9-interviews.html' saved [29042]
+
+--2016-01-11 22:28:00--  http://www-cs.stanford.edu/events/groupon-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/groupon-interviews.html'
+
+     0K .......... .......... ........                         4.81M=0.006s
+
+2016-01-11 22:28:00 (4.81 MB/s) - 'events/groupon-interviews.html' saved [29077]
+
+--2016-01-11 22:28:00--  http://www-cs.stanford.edu/events/cisco-interviews
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/cisco-interviews.html'
+
+     0K .......... .......... ........                         4.48M=0.006s
+
+2016-01-11 22:28:00 (4.48 MB/s) - 'events/cisco-interviews.html' saved [29066]
+
+--2016-01-11 22:28:00--  http://www-cs.stanford.edu/events/juniper-networks-resume-submission-deadline
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/juniper-networks-resume-submission-deadline.html'
+
+     0K .......... .......... ........                         2.36M=0.01s
+
+2016-01-11 22:28:00 (2.36 MB/s) - 'events/juniper-networks-resume-submission-deadline.html' saved [29254]
+
+--2016-01-11 22:28:00--  http://www-cs.stanford.edu/events/hci-seminar-tba-matthew-salganik-princeton-university
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/hci-seminar-tba-matthew-salganik-princeton-university.html'
+
+     0K .......... .......... .........                        4.21M=0.007s
+
+2016-01-11 22:28:01 (4.21 MB/s) - 'events/hci-seminar-tba-matthew-salganik-princeton-university.html' saved [30396]
+
+--2016-01-11 22:28:01--  http://www-cs.stanford.edu/events/scien-colloquia-tba-professor-ronnier-luo
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/scien-colloquia-tba-professor-ronnier-luo.html'
+
+     0K .......... .......... .........                        4.27M=0.007s
+
+2016-01-11 22:28:01 (4.27 MB/s) - 'events/scien-colloquia-tba-professor-ronnier-luo.html' saved [30177]
+
+--2016-01-11 22:28:01--  http://www-cs.stanford.edu/events/asana-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/asana-info-session.html'
+
+     0K .......... .......... ..........                       4.31M=0.007s
+
+2016-01-11 22:28:01 (4.31 MB/s) - 'events/asana-info-session.html' saved [30783]
+
+--2016-01-11 22:28:01--  http://www-cs.stanford.edu/events/palantir-info-session
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/palantir-info-session.html'
+
+     0K .......... .......... ..........                       5.63M=0.005s
+
+2016-01-11 22:28:01 (5.63 MB/s) - 'events/palantir-info-session.html' saved [31024]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/events/netseminar-tba-jeff-mogul-google
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/netseminar-tba-jeff-mogul-google.html'
+
+     0K .......... .......... .........                        4.69M=0.006s
+
+2016-01-11 22:28:02 (4.69 MB/s) - 'events/netseminar-tba-jeff-mogul-google.html' saved [30223]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/events/perspectives-assistive-technology-designing-beyond-norm-meet-needs-all-people-peter-w-axelson
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'events/perspectives-assistive-technology-designing-beyond-norm-meet-needs-all-people-peter-w-axelson.html'
+
+     0K .......... .......... .......... ..                    4.80M=0.007s
+
+2016-01-11 22:28:02 (4.80 MB/s) - 'events/perspectives-assistive-technology-designing-beyond-norm-meet-needs-all-people-peter-w-axelson.html' saved [33202]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/stanford_wilbur/images/footer-stanford-logo@2x.png
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7461 (7.3K) [image/png]
+Saving to: 'sites/all/themes/stanford_wilbur/images/footer-stanford-logo@2x.png'
+
+     0K .......                                               100% 30.3M=0s
+
+2016-01-11 22:28:02 (30.3 MB/s) - 'sites/all/themes/stanford_wilbur/images/footer-stanford-logo@2x.png' saved [7461/7461]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/modules/ctools/images/status-active.gif
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2196 (2.1K) [image/gif]
+Saving to: 'sites/all/modules/ctools/images/status-active.gif'
+
+     0K ..                                                    100%  209M=0s
+
+2016-01-11 22:28:02 (209 MB/s) - 'sites/all/modules/ctools/images/status-active.gif' saved [2196/2196]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/open_framework/bootstrap/img/glyphicons-halflings.png
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12799 (12K) [image/png]
+Saving to: 'sites/all/themes/open_framework/bootstrap/img/glyphicons-halflings.png'
+
+     0K .......... ..                                         100% 8.67M=0.001s
+
+2016-01-11 22:28:02 (8.67 MB/s) - 'sites/all/themes/open_framework/bootstrap/img/glyphicons-halflings.png' saved [12799/12799]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/open_framework/bootstrap/img/glyphicons-halflings-white.png
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8777 (8.6K) [image/png]
+Saving to: 'sites/all/themes/open_framework/bootstrap/img/glyphicons-halflings-white.png'
+
+     0K ........                                              100% 12.5M=0.001s
+
+2016-01-11 22:28:02 (12.5 MB/s) - 'sites/all/themes/open_framework/bootstrap/img/glyphicons-halflings-white.png' saved [8777/8777]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.eot?v=3.2.1
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 37405 (37K) [application/vnd.ms-fontobject]
+Saving to: 'sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.eot?v=3.2.1'
+
+     0K .......... .......... .......... ......               100% 4.18M=0.009s
+
+2016-01-11 22:28:02 (4.18 MB/s) - 'sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.eot?v=3.2.1' saved [37405/37405]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.eot?
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 37405 (37K) [application/vnd.ms-fontobject]
+Saving to: 'sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.eot?'
+
+     0K .......... .......... .......... ......               100% 5.18M=0.007s
+
+2016-01-11 22:28:02 (5.18 MB/s) - 'sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.eot?' saved [37405/37405]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.woff?v=3.2.1
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 43572 (43K) [text/plain]
+Saving to: 'sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.woff?v=3.2.1'
+
+     0K .......... .......... .......... .......... ..        100% 6.01M=0.007s
+
+2016-01-11 22:28:02 (6.01 MB/s) - 'sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.woff?v=3.2.1' saved [43572/43572]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.ttf?v=3.2.1
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 79076 (77K) [text/plain]
+Saving to: 'sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.ttf?v=3.2.1'
+
+     0K .......... .......... .......... .......... .......... 64% 4.81M 0s
+    50K .......... .......... .......                         100% 5.63M=0.01s
+
+2016-01-11 22:28:02 (5.07 MB/s) - 'sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.ttf?v=3.2.1' saved [79076/79076]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.svg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 197829 (193K) [image/svg+xml]
+Saving to: 'sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.svg'
+
+     0K .......... .......... .......... .......... .......... 25% 8.16M 0s
+    50K .......... .......... .......... .......... .......... 51% 4.93M 0s
+   100K .......... .......... .......... .......... .......... 77% 4.99M 0s
+   150K .......... .......... .......... .......... ...       100% 4.17M=0.04s
+
+2016-01-11 22:28:02 (5.27 MB/s) - 'sites/all/themes/open_framework/fontawesome/font/fontawesome-webfont.svg' saved [197829/197829]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/open_framework/images/ofw-more-link-arrows.png
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 181 [image/png]
+Saving to: 'sites/all/themes/open_framework/images/ofw-more-link-arrows.png'
+
+     0K                                                       100% 15.7M=0s
+
+2016-01-11 22:28:02 (15.7 MB/s) - 'sites/all/themes/open_framework/images/ofw-more-link-arrows.png' saved [181/181]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/stanford_framework/images/transparent.png
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 951 [image/png]
+Saving to: 'sites/all/themes/stanford_framework/images/transparent.png'
+
+     0K                                                       100%  113M=0s
+
+2016-01-11 22:28:02 (113 MB/s) - 'sites/all/themes/stanford_framework/images/transparent.png' saved [951/951]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/stanford_framework/images/more-link-arrows.png
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1092 (1.1K) [image/png]
+Saving to: 'sites/all/themes/stanford_framework/images/more-link-arrows.png'
+
+     0K .                                                     100% 65.1M=0s
+
+2016-01-11 22:28:02 (65.1 MB/s) - 'sites/all/themes/stanford_framework/images/more-link-arrows.png' saved [1092/1092]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/stanford_framework/images/bullet.gif
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1103 (1.1K) [image/gif]
+Saving to: 'sites/all/themes/stanford_framework/images/bullet.gif'
+
+     0K .                                                     100%  175M=0s
+
+2016-01-11 22:28:02 (175 MB/s) - 'sites/all/themes/stanford_framework/images/bullet.gif' saved [1103/1103]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/themes/stanford_wilbur/images/bullet.gif
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1102 (1.1K) [image/gif]
+Saving to: 'sites/all/themes/stanford_wilbur/images/bullet.gif'
+
+     0K .                                                     100%  175M=0s
+
+2016-01-11 22:28:02 (175 MB/s) - 'sites/all/themes/stanford_wilbur/images/bullet.gif' saved [1102/1102]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/modules/bootstrap_carousel/styles/bootstrap_carousel.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 889 [text/css]
+Saving to: 'sites/all/modules/bootstrap_carousel/styles/bootstrap_carousel.css?o0hw9b.css'
+
+     0K                                                       100%  106M=0s
+
+2016-01-11 22:28:02 (106 MB/s) - 'sites/all/modules/bootstrap_carousel/styles/bootstrap_carousel.css?o0hw9b.css' saved [889/889]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/all/modules/bootstrap_carousel/scripts/bootstrap_carousel.js?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3672 (3.6K) [text/javascript]
+Saving to: 'sites/all/modules/bootstrap_carousel/scripts/bootstrap_carousel.js?o0hw9b'
+
+     0K ...                                                   100% 20.2M=0s
+
+2016-01-11 22:28:02 (20.2 MB/s) - 'sites/all/modules/bootstrap_carousel/scripts/bootstrap_carousel.js?o0hw9b' saved [3672/3672]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/carousel_images/Toyota_Fei-Fei_Li-870x374.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 51262 (50K) [image/jpeg]
+Saving to: 'sites/default/files/carousel_images/Toyota_Fei-Fei_Li-870x374.jpg'
+
+     0K .......... .......... .......... .......... .......... 99% 4.52M 0s
+    50K                                                       100% 1.21K=0.01s
+
+2016-01-11 22:28:02 (4.53 MB/s) - 'sites/default/files/carousel_images/Toyota_Fei-Fei_Li-870x374.jpg' saved [51262/51262]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/carousel_images/18215199623_f5b0918e2e_o.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 164943 (161K) [image/jpeg]
+Saving to: 'sites/default/files/carousel_images/18215199623_f5b0918e2e_o.jpg'
+
+     0K .......... .......... .......... .......... .......... 31% 7.44M 0s
+    50K .......... .......... .......... .......... .......... 62% 5.56M 0s
+   100K .......... .......... .......... .......... .......... 93% 5.67M 0s
+   150K .......... .                                          100% 13.3M=0.02s
+
+2016-01-11 22:28:02 (6.35 MB/s) - 'sites/default/files/carousel_images/18215199623_f5b0918e2e_o.jpg' saved [164943/164943]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/carousel_images/17348134056_c9a690bd4b_o_0.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 157751 (154K) [image/jpeg]
+Saving to: 'sites/default/files/carousel_images/17348134056_c9a690bd4b_o_0.jpg'
+
+     0K .......... .......... .......... .......... .......... 32% 8.33M 0s
+    50K .......... .......... .......... .......... .......... 64% 7.94M 0s
+   100K .......... .......... .......... .......... .......... 97% 5.94M 0s
+   150K ....                                                  100% 3.70M=0.02s
+
+2016-01-11 22:28:02 (7.06 MB/s) - 'sites/default/files/carousel_images/17348134056_c9a690bd4b_o_0.jpg' saved [157751/157751]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/carousel_images/slide1_0.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 95158 (93K) [image/jpeg]
+Saving to: 'sites/default/files/carousel_images/slide1_0.jpg'
+
+     0K .......... .......... .......... .......... .......... 53% 8.74M 0s
+    50K .......... .......... .......... .......... ..        100% 6.49M=0.01s
+
+2016-01-11 22:28:02 (7.54 MB/s) - 'sites/default/files/carousel_images/slide1_0.jpg' saved [95158/95158]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/carousel_images/15660273531_0beb279601_k.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 153440 (150K) [image/jpeg]
+Saving to: 'sites/default/files/carousel_images/15660273531_0beb279601_k.jpg'
+
+     0K .......... .......... .......... .......... .......... 33% 7.46M 0s
+    50K .......... .......... .......... .......... .......... 66% 7.31M 0s
+   100K .......... .......... .......... .......... ......... 100% 6.84M=0.02s
+
+2016-01-11 22:28:02 (7.20 MB/s) - 'sites/default/files/carousel_images/15660273531_0beb279601_k.jpg' saved [153440/153440]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/carousel_images/13170750413_7f3f44b039_o_1.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 179115 (175K) [image/jpeg]
+Saving to: 'sites/default/files/carousel_images/13170750413_7f3f44b039_o_1.jpg'
+
+     0K .......... .......... .......... .......... .......... 28% 4.37M 0s
+    50K .......... .......... .......... .......... .......... 57% 12.9M 0s
+   100K .......... .......... .......... .......... .......... 85% 5.87M 0s
+   150K .......... .......... ....                            100% 10.4M=0.03s
+
+2016-01-11 22:28:02 (6.67 MB/s) - 'sites/default/files/carousel_images/13170750413_7f3f44b039_o_1.jpg' saved [179115/179115]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/aiken_0_0.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 103931 (101K) [image/jpeg]
+Saving to: 'sites/default/files/aiken_0_0.jpg'
+
+     0K .......... .......... .......... .......... .......... 49% 9.63M 0s
+    50K .......... .......... .......... .......... .......... 98% 6.73M 0s
+   100K .                                                     100% 5.02M=0.01s
+
+2016-01-11 22:28:02 (7.86 MB/s) - 'sites/default/files/aiken_0_0.jpg' saved [103931/103931]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/Gut%20bacteria_0.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11531 (11K) [image/jpeg]
+Saving to: 'sites/default/files/Gut bacteria_0.jpg'
+
+     0K .......... .                                          100% 10.6M=0.001s
+
+2016-01-11 22:28:02 (10.6 MB/s) - 'sites/default/files/Gut bacteria_0.jpg' saved [11531/11531]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/drones.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 19145 (19K) [image/jpeg]
+Saving to: 'sites/default/files/drones.jpg'
+
+     0K .......... ........                                   100% 10.1M=0.002s
+
+2016-01-11 22:28:02 (10.1 MB/s) - 'sites/default/files/drones.jpg' saved [19145/19145]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/Skyscraper-chip.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 32210 (31K) [image/jpeg]
+Saving to: 'sites/default/files/Skyscraper-chip.jpg'
+
+     0K .......... .......... .......... .                    100% 9.11M=0.003s
+
+2016-01-11 22:28:02 (9.11 MB/s) - 'sites/default/files/Skyscraper-chip.jpg' saved [32210/32210]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/csforgood_news.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8637 (8.4K) [image/jpeg]
+Saving to: 'sites/default/files/csforgood_news.jpg'
+
+     0K ........                                              100% 12.5M=0.001s
+
+2016-01-11 22:28:02 (12.5 MB/s) - 'sites/default/files/csforgood_news.jpg' saved [8637/8637]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/pictures/gates.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 42063 (41K) [image/jpeg]
+Saving to: 'sites/default/files/pictures/gates.jpg'
+
+     0K .......... .......... .......... .......... .         100% 7.65M=0.005s
+
+2016-01-11 22:28:02 (7.65 MB/s) - 'sites/default/files/pictures/gates.jpg' saved [42063/42063]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/pictures/Stanford%20Computer%20Forum_web.png
+Connecting to www-cs.stanford.edu|171.64.64.64|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10157 (9.9K) [image/png]
+Saving to: 'sites/default/files/pictures/Stanford Computer Forum_web.png'
+
+     0K .........                                             100% 9.18M=0.001s
+
+2016-01-11 22:28:02 (9.18 MB/s) - 'sites/default/files/pictures/Stanford Computer Forum_web.png' saved [10157/10157]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/j_mccarthy_0.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 73277 (72K) [image/jpeg]
+Saving to: 'sites/default/files/j_mccarthy_0.jpg'
+
+     0K .......... .......... .......... .......... .......... 69% 5.11M 0s
+    50K .......... .......... .                               100% 10.9M=0.01s
+
+2016-01-11 22:28:02 (6.08 MB/s) - 'sites/default/files/j_mccarthy_0.jpg' saved [73277/73277]
+
+--2016-01-11 22:28:02--  http://www-cs.stanford.edu/sites/default/files/rajeev.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 62496 (61K) [image/jpeg]
+Saving to: 'sites/default/files/rajeev.jpg'
+
+     0K .......... .......... .......... .......... .......... 81% 6.33M 0s
+    50K .......... .                                          100% 7.08M=0.009s
+
+2016-01-11 22:28:03 (6.45 MB/s) - 'sites/default/files/rajeev.jpg' saved [62496/62496]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/golub.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 69167 (68K) [image/jpeg]
+Saving to: 'sites/default/files/golub.jpg'
+
+     0K .......... .......... .......... .......... .......... 74% 4.88M 0s
+    50K .......... .......                                    100% 9.93M=0.01s
+
+2016-01-11 22:28:03 (5.62 MB/s) - 'sites/default/files/golub.jpg' saved [69167/69167]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/memres_oliger.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 37972 (37K) [image/jpeg]
+Saving to: 'sites/default/files/memres_oliger.jpg'
+
+     0K .......... .......... .......... .......              100% 8.73M=0.004s
+
+2016-01-11 22:28:03 (8.73 MB/s) - 'sites/default/files/memres_oliger.jpg' saved [37972/37972]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/herriot.png
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 58093 (57K) [image/png]
+Saving to: 'sites/default/files/herriot.png'
+
+     0K .......... .......... .......... .......... .......... 88% 5.26M 0s
+    50K ......                                                100% 8.09M=0.01s
+
+2016-01-11 22:28:03 (5.49 MB/s) - 'sites/default/files/herriot.png' saved [58093/58093]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/hhfffhcc.png
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 58073 (57K) [image/png]
+Saving to: 'sites/default/files/hhfffhcc.png'
+
+     0K .......... .......... .......... .......... .......... 88% 8.35M 0s
+    50K ......                                                100% 2.29M=0.009s
+
+2016-01-11 22:28:03 (6.36 MB/s) - 'sites/default/files/hhfffhcc.png' saved [58073/58073]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/Arthur%20Samuel%20picture.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 29499 (29K) [image/jpeg]
+Saving to: 'sites/default/files/Arthur Samuel picture.jpg'
+
+     0K .......... .......... ........                        100% 5.87M=0.005s
+
+2016-01-11 22:28:03 (5.87 MB/s) - 'sites/default/files/Arthur Samuel picture.jpg' saved [29499/29499]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3655 (3.6K) [text/javascript]
+Saving to: 'sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570'
+
+     0K ...                                                   100%  139M=0s
+
+2016-01-11 22:28:03 (139 MB/s) - 'sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570' saved [3655/3655]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10594 (10K) [text/javascript]
+Saving to: 'sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69'
+
+     0K ..........                                            100% 7.97M=0.001s
+
+2016-01-11 22:28:03 (7.97 MB/s) - 'sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69' saved [10594/10594]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 302 [text/javascript]
+Saving to: 'sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1'
+
+     0K                                                       100% 41.1M=0s
+
+2016-01-11 22:28:03 (41.1 MB/s) - 'sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1' saved [302/302]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/all/modules/views/js/base.js?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3087 (3.0K) [text/javascript]
+Saving to: 'sites/all/modules/views/js/base.js?o0hw9b'
+
+     0K ...                                                   100% 98.1M=0s
+
+2016-01-11 22:28:03 (98.1 MB/s) - 'sites/all/modules/views/js/base.js?o0hw9b' saved [3087/3087]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/all/modules/views/js/ajax_view.js?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5112 (5.0K) [text/javascript]
+Saving to: 'sites/all/modules/views/js/ajax_view.js?o0hw9b'
+
+     0K ....                                                  100% 12.1M=0s
+
+2016-01-11 22:28:03 (12.1 MB/s) - 'sites/all/modules/views/js/ajax_view.js?o0hw9b' saved [5112/5112]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/all/modules/ctools/js/auto-submit.js?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3346 (3.3K) [text/javascript]
+Saving to: 'sites/all/modules/ctools/js/auto-submit.js?o0hw9b'
+
+     0K ...                                                   100%  188M=0s
+
+2016-01-11 22:28:03 (188 MB/s) - 'sites/all/modules/ctools/js/auto-submit.js?o0hw9b' saved [3346/3346]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/styles/faculty_profile/public/maneesh.jpeg?itok=sb_Xu2fp
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14923 (15K) [image/jpeg]
+Saving to: 'sites/default/files/styles/faculty_profile/public/maneesh.jpeg?itok=sb_Xu2fp'
+
+     0K .......... ....                                       100% 7.15M=0.002s
+
+2016-01-11 22:28:03 (7.15 MB/s) - 'sites/default/files/styles/faculty_profile/public/maneesh.jpeg?itok=sb_Xu2fp' saved [14923/14923]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/styles/faculty_profile/public/aiken_prof.jpg?itok=0tkBJubO
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 18034 (18K) [image/jpeg]
+Saving to: 'sites/default/files/styles/faculty_profile/public/aiken_prof.jpg?itok=0tkBJubO'
+
+     0K .......... .......                                    100% 9.69M=0.002s
+
+2016-01-11 22:28:03 (9.69 MB/s) - 'sites/default/files/styles/faculty_profile/public/aiken_prof.jpg?itok=0tkBJubO' saved [18034/18034]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/styles/faculty_profile/public/pbailis-lg.jpg?itok=L5pDfwKy
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14579 (14K) [image/jpeg]
+Saving to: 'sites/default/files/styles/faculty_profile/public/pbailis-lg.jpg?itok=L5pDfwKy'
+
+     0K .......... ....                                       100% 10.7M=0.001s
+
+2016-01-11 22:28:03 (10.7 MB/s) - 'sites/default/files/styles/faculty_profile/public/pbailis-lg.jpg?itok=L5pDfwKy' saved [14579/14579]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/styles/faculty_profile/public/SerafimBoston.jpg?itok=_xL5FAT2
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 16508 (16K) [image/jpeg]
+Saving to: 'sites/default/files/styles/faculty_profile/public/SerafimBoston.jpg?itok=_xL5FAT2'
+
+     0K .......... ......                                     100% 6.75M=0.002s
+
+2016-01-11 22:28:03 (6.75 MB/s) - 'sites/default/files/styles/faculty_profile/public/SerafimBoston.jpg?itok=_xL5FAT2' saved [16508/16508]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/styles/faculty_profile/public/GillBejerano3.jpg?itok=r6x7Q4VL
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 18355 (18K) [image/jpeg]
+Saving to: 'sites/default/files/styles/faculty_profile/public/GillBejerano3.jpg?itok=r6x7Q4VL'
+
+     0K .......... .......                                    100% 5.01M=0.003s
+
+2016-01-11 22:28:03 (5.01 MB/s) - 'sites/default/files/styles/faculty_profile/public/GillBejerano3.jpg?itok=r6x7Q4VL' saved [18355/18355]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/styles/faculty_profile/public/msb-hoover.jpg?itok=t26DaWrr
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14841 (14K) [image/jpeg]
+Saving to: 'sites/default/files/styles/faculty_profile/public/msb-hoover.jpg?itok=t26DaWrr'
+
+     0K .......... ....                                       100% 7.62M=0.002s
+
+2016-01-11 22:28:03 (7.62 MB/s) - 'sites/default/files/styles/faculty_profile/public/msb-hoover.jpg?itok=t26DaWrr' saved [14841/14841]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/styles/faculty_profile/public/boneh.jpg?itok=C3yBEp8N
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12423 (12K) [image/jpeg]
+Saving to: 'sites/default/files/styles/faculty_profile/public/boneh.jpg?itok=C3yBEp8N'
+
+     0K .......... ..                                         100% 9.74M=0.001s
+
+2016-01-11 22:28:03 (9.74 MB/s) - 'sites/default/files/styles/faculty_profile/public/boneh.jpg?itok=C3yBEp8N' saved [12423/12423]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/styles/faculty_profile/public/charikar.jpg?itok=aESO_Ps6
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 15653 (15K) [image/jpeg]
+Saving to: 'sites/default/files/styles/faculty_profile/public/charikar.jpg?itok=aESO_Ps6'
+
+     0K .......... .....                                      100% 6.28M=0.002s
+
+2016-01-11 22:28:03 (6.28 MB/s) - 'sites/default/files/styles/faculty_profile/public/charikar.jpg?itok=aESO_Ps6' saved [15653/15653]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/styles/faculty_profile/public/david-cheriton.jpg?itok=2lvQIgMv
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 17684 (17K) [image/jpeg]
+Saving to: 'sites/default/files/styles/faculty_profile/public/david-cheriton.jpg?itok=2lvQIgMv'
+
+     0K .......... .......                                    100% 6.61M=0.003s
+
+2016-01-11 22:28:03 (6.61 MB/s) - 'sites/default/files/styles/faculty_profile/public/david-cheriton.jpg?itok=2lvQIgMv' saved [17684/17684]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/styles/faculty_profile/public/steve003small.jpg?itok=ZnNOs4aA
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13946 (14K) [image/jpeg]
+Saving to: 'sites/default/files/styles/faculty_profile/public/steve003small.jpg?itok=ZnNOs4aA'
+
+     0K .......... ...                                        100% 8.33M=0.002s
+
+2016-01-11 22:28:03 (8.33 MB/s) - 'sites/default/files/styles/faculty_profile/public/steve003small.jpg?itok=ZnNOs4aA' saved [13946/13946]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/default/files/LibraryOfCongressClassification_0.jpg
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 87707 (86K) [image/jpeg]
+Saving to: 'sites/default/files/LibraryOfCongressClassification_0.jpg'
+
+     0K .......... .......... .......... .......... .......... 58% 8.82M 0s
+    50K .......... .......... .......... .....                100% 6.08M=0.01s
+
+2016-01-11 22:28:03 (7.42 MB/s) - 'sites/default/files/LibraryOfCongressClassification_0.jpg' saved [87707/87707]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/all/modules/webform/css/webform.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1687 (1.6K) [text/css]
+Saving to: 'sites/all/modules/webform/css/webform.css?o0hw9b.css'
+
+     0K .                                                     100%  230M=0s
+
+2016-01-11 22:28:03 (230 MB/s) - 'sites/all/modules/webform/css/webform.css?o0hw9b.css' saved [1687/1687]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/all/modules/webform/js/webform.js?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 25915 (25K) [text/javascript]
+Saving to: 'sites/all/modules/webform/js/webform.js?o0hw9b'
+
+     0K .......... .......... .....                           100% 9.80M=0.003s
+
+2016-01-11 22:28:03 (9.80 MB/s) - 'sites/all/modules/webform/js/webform.js?o0hw9b' saved [25915/25915]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/all/modules/calendar/css/calendar-overlap.css?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 18975 (19K) [text/css]
+Saving to: 'sites/all/modules/calendar/css/calendar-overlap.css?o0hw9b.css'
+
+     0K .......... ........                                   100% 8.48M=0.002s
+
+2016-01-11 22:28:03 (8.48 MB/s) - 'sites/all/modules/calendar/css/calendar-overlap.css?o0hw9b.css' saved [18975/18975]
+
+--2016-01-11 22:28:03--  http://www-cs.stanford.edu/sites/all/modules/calendar/js/calendar_overlap.js?o0hw9b
+Reusing existing connection to www-cs.stanford.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2891 (2.8K) [text/javascript]
+Saving to: 'sites/all/modules/calendar/js/calendar_overlap.js?o0hw9b'
+
+     0K ..                                                    100%  394M=0s
+
+2016-01-11 22:28:03 (394 MB/s) - 'sites/all/modules/calendar/js/calendar_overlap.js?o0hw9b' saved [2891/2891]
+
+FINISHED --2016-01-11 22:28:03--
+Total wall clock time: 1m 26s
+Downloaded: 299 files, 10.0M in 2.1s (4.85 MB/s)
+Converting links in events/healthtap-info-session.html... 144-2
+Converting links in department-newsletter.html... 148-2
+Converting links in computing-guide/afs/command-reference.html... 165-2
+Converting links in academics/prospective-masters.html... 155-2
+Converting links in events/workday-interviews.html... 144-2
+Converting links in events/calendar/day/2016-01-22.html... 154-1
+Converting links in events/visa-resume-submission-deadline-career-fair.html... 144-2
+Converting links in academics/current-masters/joint-cs-msmba-degree.html... 162-2
+Converting links in computing-guide/email/spam-filtering.html... 165-2
+Converting links in events/zazzle-interviews.html... 144-2
+Converting links in events/calendar/day/2016-01-14.html... 163-1
+Converting links in events/calendar/month/2015-12.html... 150-1
+Converting links in computing-guide/email/client-settings.html... 165-2
+Converting links in events/snapchat-info-session.html... 144-2
+Converting links in events/calendar/day/2016-01-26.html... 154-1
+Converting links in events/icme-departmental-seminar-cme-500.html... 144-2
+Converting links in department-newsletter/2014-department-newsletter.html... 150-2
+Converting links in computing-guide/access/shell-access-ssh.html... 164-2
+Converting links in events/scien-colloquia-3d-computational-microscopy-professor-laura-waller-university-california.html... 144-2
+Converting links in events/calendar/day/2016-01-18.html... 153-1
+Converting links in jobs/postdoctoral-opening.html... 150-2
+Converting links in computing-guide/printing.html... 160-8
+Converting links in events/juniper-networks-resume-submission-deadline.html... 144-2
+Converting links in events/bloomberg-info-session.html... 144-2
+Converting links in events/gm-info-session.html... 144-2
+Converting links in index.html... 169-1
+Converting links in jobs/lecturer-opening.html... 150-2
+Converting links in academics/phd.html... 157-2
+Converting links in jobs/teaching-faculty-opening.html... 150-2
+Converting links in academics/prospective-masters/honors-co-op-program.html... 7-28
+Converting links in directory.html... 155-3
+Converting links in csdcf/about-us.html... 150-2
+Converting links in events/calendar/day.html... 155-1
+Converting links in events/a9-resume-submission-deadline.html... 144-2
+Converting links in events/de-shaw-interviews.html... 144-2
+Converting links in events/adobe-interviews.html... 144-2
+Converting links in events/scien-colloquia-tba-professor-ronnier-luo.html... 144-2
+Converting links in directory/administrative-staff.html... 154-2
+Converting links in computing-guide/overview.html... 160-3
+Converting links in events/asana-info-session.html... 144-2
+Converting links in directory/faculty.html... 160-4
+Converting links in computing-guide/usenet.html... 164-2
+Converting links in csdcf.html... 153-2
+Converting links in events/gm-interviews.html... 144-2
+Converting links in academics.html... 151-2
+Converting links in academics/current-masters/choosing-classes.html... 162-2
+Converting links in csdcf/policies.html... 153-2
+Converting links in computing-guide/email/overview.html... 165-2
+Converting links in academics/phd/phd-orientation-slide.html... 150-3
+Converting links in events/vmware-info-session.html... 144-2
+Converting links in academics/phd/phd-requirements.html... 148-5
+Converting links in directory/research-staff.html... 152-2
+Converting links in academics/phd/graduate-student-forms.html... 150-2
+Converting links in events/citadel-office-hours.html... 144-2
+Converting links in events/tcs-resume-submission-deadline-career-fair.html... 144-2
+Converting links in events/accenture-info-session.html... 144-2
+Converting links in academics/prospective-cas.html... 146-11
+Converting links in events/icme-first-year-seminar-series-cme-300-tba.html... 144-2
+Converting links in academics/phd/cs300-seminar.html... 150-2
+Converting links in events/calendar/day/2016-01-21.html... 159-1
+Converting links in events/hci-seminar-tba-matthew-salganik-princeton-university.html... 144-2
+Converting links in events/perspectives-assistive-technology-designing-beyond-norm-meet-needs-all-people-peter-w-axelson.html... 144-2
+Converting links in events/groupon-resume-submission-deadline.html... 144-2
+Converting links in academics/phd/qualifying-exams.html... 151-4
+Converting links in ip.html... 147-2
+Converting links in academics/prospective-masters/joint-cs-mslaw-degree.html... 162-2
+Converting links in events/calendar/day/2016-01-13.html... 172-1
+Converting links in events/calendar/day/2016-01-25.html... 154-1
+Converting links in admissions/current-stanford-students/phd-minor.html... 150-2
+Converting links in events/tcs-info-session.html... 144-2
+Converting links in academics/prospective-masters/courses-available-non-stanford-students.html... 4-114
+Converting links in events/calendar/day/2016-01-29.html... 154-1
+Converting links in events/computer-forum-career-fair.html... 144-2
+Converting links in about/directions.html... 150-2
+Converting links in memoriam.html... 150-22
+Converting links in computing-guide/access/csid.html... 164-2
+Converting links in events/hci-seminar-tba-marti-hearst-uc-berkeley.html... 144-2
+Converting links in csdcf/policies/server-hosting.html... 150-2
+Converting links in events/tcs-interviews.html... 144-2
+Converting links in admissions/faq.html... 252-2
+Converting links in directory/masters-students.html... 152-2
+Converting links in events/gm-resume-submission-deadline-career-fair.html... 144-2
+Converting links in events/zazzle-resume-submission-deadline.html... 144-2
+Converting links in events/perspectives-assistive-technology-personal-and-historical-perspective-creative-thinking-and.html... 144-2
+Converting links in research.html... 160-27
+Converting links in computing-guide/email/forwarding.html... 165-2
+Converting links in computing-guide/afs/afs-client-installation.html... 165-2
+Converting links in events/de-shaw-resume-submission-deadline.html... 144-2
+Converting links in events/yelp-resume-submission-deadlie.html... 144-2
+Converting links in csdcf/sail-compute-cluster/faq.html... 150-2
+Converting links in admissions/contact-us.html... 150-2
+Converting links in academics/current-masters/masters-program-sheets/programsheets.html... 162-415
+Converting links in events/cisco-interviews.html... 144-2
+Converting links in academics/phd/first-year-research-rotation-program.html... 150-2
+Converting links in computing-guide/access/sunetid.html... 164-2
+Converting links in events/groupon-interviews.html... 144-2
+Converting links in about/contact-us.html... 151-2
+Converting links in events/calendar/month/2016-02.html... 150-33
+Converting links in academics/current-masters/choosing-specialization.html... 172-2
+Converting links in academics/current-masters.html... 156-2
+Converting links in events/scien-colloquia-complex-real-time-high-fidelity-simulations-visual-computing-visiting.html... 144-2
+Converting links in about/gates-computer-science-building.html... 150-2
+Converting links in computing-guide/access.html... 168-2
+Converting links in events/airbnb-interviews.html... 144-2
+Converting links in computing-guide/security-0.html... 161-2
+Converting links in csdcf/policies/xenon-student-account-policies.html... 150-2
+Converting links in computing-guide/afs/accessing-afs.html... 165-2
+Converting links in directory/masters-alumni.html... 152-2
+Converting links in events/snapchat-interviews.html... 144-2
+Converting links in events/calendar/day/2016-01-20.html... 163-1
+Converting links in events/perspectives-assistive-technology-needfinding-and-context-discovery-assistive-technologies.html... 144-2
+Converting links in directory/undergraduate-students.html... 150-4
+Converting links in events/airbnb-resume-submission-deadline-career-fair.html... 144-2
+Converting links in events/calendar/day/2016-01-12.html... 159-1
+Converting links in events/workday-resume-submission-deadline-career-fair.html... 144-2
+Converting links in cs50.html... 144-2
+Converting links in directory/phd-alumni.html... 152-2
+Converting links in academics/phd/breadth-requirements.html... 152-2
+Converting links in about/department-timeline.html... 202-2
+Converting links in events/hci-seminar-affect-affordances-and-psychology-social-media-prof-jeff-hancock-stanford.html... 144-2
+Converting links in events/scien-colloquia.html... 144-2
+Converting links in events/calendar/day/2016-01-28.html... 157-1
+Converting links in csdcf/research-clusters.html... 151-2
+Converting links in events/citadel-interviews.html... 144-2
+Converting links in events/perspectives-assistive-technology-bridging-gap-between-consumers-and-products-rehabilitation.html... 144-2
+Converting links in events/innit-resume-submission-deadline.html... 144-2
+Converting links in academics/current-masters/joint-cs-mslaw-degree.html... 162-2
+Converting links in jobs/resources-students-alumni.html... 148-2
+Converting links in computing-guide/networking.html... 160-2
+Converting links in jobs/faculty-opening.html... 150-2
+Converting links in admissions/current-stanford-students.html... 153-2
+Converting links in computing-guide/usenet/setup-windows.html... 164-2
+Converting links in admissions/ms-versus-phd.html... 150-2
+Converting links in admissions/current-stanford-students/coterminal-program.html... 150-2
+Converting links in admissions/general-information.html... 152-2
+Converting links in computing-guide/afs.html... 170-2
+Converting links in computing-guide/afs/primer.html... 165-2
+Converting links in academics/courses.html... 148-4
+Converting links in csdcf/services.html... 150-2
+Converting links in about/department-overview.html... 150-2
+Converting links in academics/prospective-masters/faq.html... 161-2
+Converting links in computing-guide/email.html... 170-2
+Converting links in events/texas-instruments-interviews.html... 144-2
+Converting links in events/accenture-office-hours.html... 144-2
+Converting links in events/hci-seminar.html... 144-2
+Converting links in computing-guide/usenet/setup-mac.html... 166-2
+Converting links in computing-guide/web-pages.html... 160-2
+Converting links in computing-guide/email/headers.html... 165-2
+Converting links in academics/ca.html... 152-2
+Converting links in events/yelp-info-session.html... 144-2
+Converting links in events/yelp-interviews.html... 144-2
+Converting links in events/calendar/month/2016-01.html... 247-1
+Converting links in events/calendar/year.html... 150-1
+Converting links in events/thumbtack-info-session.html... 144-2
+Converting links in events/a9-interviews.html... 144-2
+Converting links in about.html... 153-2
+Converting links in csdcf/policies/privileged-access-policy.html... 150-2
+Converting links in forum.html... 145-2
+Converting links in events/palantir-info-session.html... 144-2
+Converting links in jobs.html... 151-2
+Converting links in events/yahoo-meet-greet.html... 144-2
+Converting links in events/walmart-labs-info-session.html... 144-2
+Converting links in admissions/current-stanford-students/additionalchange-degree.html... 150-2
+Converting links in events/microsoft-resume-submission-deadline.html... 144-2
+Converting links in academics/prospective-masters/joint-cs-msmba-degree.html... 162-2
+Converting links in events/netseminar-tba-jeff-mogul-google.html... 144-2
+Converting links in events/samsung-resume-submission-deadline.html... 144-2
+Converting links in admissions/visiting-cs.html... 148-2
+Converting links in events/twitter-resume-submission-deadline-career-fair.html... 144-2
+Converting links in events/calendar/day/2016-01-11.html... 155-1
+Converting links in events/perspectives-assistive-technology-perspectives-stanford-students-disability-edan-alexander.html... 144-2
+Converting links in events/rocket-fuel-info-session.html... 144-2
+Converting links in academics/current-masters/faq.html... 162-2
+Converting links in directory/undergraduate-alumni.html... 152-2
+Converting links in directory/phd-students.html... 152-2
+Converting links in about/giving-computer-science.html... 148-2
+Converting links in csdcf/sail-compute-cluster.html... 153-2
+Converting links in events/calendar/day/2016-01-15.html... 159-1
+Converting links in events/calendar/day/2016-01-27.html... 158-1
+Converting links in events/adobe-resume-submission-deadline-career-fair.html... 144-2
+Converting links in events/perspectives-assistive-technology-issues-human-interface-design-gary-m-berke-ms-cp-faaop.html... 144-2
+Converting links in csdcf/sail-compute-cluster/hardware.html... 150-2
+Converting links in csdcf/computing-environment.html... 150-2
+Converting links in events/calendar/day/2016-01-19.html... 156-1
+Converting links in department-newsletter/past-newsletters.html... 148-7
+Converting links in events/university-oral-examination-ultraflow-dual-mode-access-network-physical-and-system.html... 144-2
+Converting links in admissions/checklist.html... 150-2
+Converting links in admissions/deadlines.html... 150-2
+Converting links in admissions.html... 155-2
+Converting links in events/cisco-resume-submission-deadline.html... 144-2
+Converting links in events/google-interviews.html... 144-2
+Converting links in about/strategic-plan.html... 150-3
+Converting links in events/go-daddy-interviews.html... 144-2
+Converting links in events/citadel-info-session.html... 144-2
+Converting links in events/visa-interviews.html... 144-2
+Converting links in events/11-mock-interview-workshop.html... 144-2
+Converting links in csdcf/team.html... 148-2
+Converting links in events/twitter-interviews.html... 144-2
+Converting links in events/calendar.1.html... 247-1
+Converting links in csdcf/help.html... 151-2
+Converting links in computing-guide.html... 165-2
+Converting links in computing-guide/access/security.html... 164-2
+Converting links in computing-guide/afs/batch-and-cron-jobs.html... 165-2
+Converting links in events/snapchat-resume-submission-deadline-career-fair.html... 144-2
+Converting links in events/career-strategy-workshop-how-become-career-fair-champion.html... 144-2
+Converting links in events/ixl-learning-resume-submission-deadline.html... 144-2
+Converting links in events/ixl-learning-interviews.html... 144-2
+Converting links in events/texas-instruments-resume-submission-deadline-career-fair.html... 144-2
+Converting links in events/amazon-resume-submission-deadline.html... 144-2
+Converting links in academics/course-assistants-cas/current-cas.html... 149-12
+Converting links in admissions/reapplying.html... 150-2
+Converting links in events/parc-forum-making-shakey-worlds-first-intelligent-mobile-robot-peter-e-hart.html... 144-2
+Converting links in events/do-daddy-resume-submission-deadline-career-fair.html... 144-2
+Converting links in csdcf/sail-compute-cluster/examples.html... 150-2
+Converting links in events/intuit-interviews.html... 144-2
+Converting links in events/calendar/week.html... 195-1
+Converting links in sites/all/modules/ctools/css/ctools.css?o0hw9b.css... 2-0
+Converting links in sites/all/themes/open_framework/bootstrap/css/bootstrap-responsive.min.css?o0hw9b.css... nothing to do.
+Converting links in sites/all/themes/open_framework/css/open_framework_print.css?o0hw9b.css... nothing to do.
+Converting links in sites/all/themes/open_framework/css/open_framework.css?o0hw9b.css... 1-0
+Converting links in sites/all/modules/date/date_api/date.css?o0hw9b.css... nothing to do.
+Converting links in sites/all/modules/bootstrap_carousel/styles/bootstrap_carousel.css?o0hw9b.css... nothing to do.
+Converting links in sites/all/modules/date/date_views/css/date_views.css?o0hw9b.css... nothing to do.
+Converting links in sites/all/themes/stanford_framework/css/stanford_framework.css?o0hw9b.css... 3-0
+Converting links in sites/all/modules/views/css/views.css?o0hw9b.css... nothing to do.
+Converting links in sites/all/modules/calendar/css/calendar_multiday.css?o0hw9b.css... nothing to do.
+Converting links in sites/all/modules/ckeditor/css/ckeditor.css?o0hw9b.css... nothing to do.
+Converting links in sites/default/files/css_injector/css_injector_1.css?o0hw9b.css... nothing to do.
+Converting links in sites/all/modules/calendar/css/calendar-overlap.css?o0hw9b.css... 0-1
+Converting links in sites/all/themes/stanford_wilbur/css/stanford_wilbur.css?o0hw9b.css... 1-0
+Converting links in sites/all/themes/open_framework/bootstrap/css/bootstrap.min.css?o0hw9b.css... 2-0
+Converting links in sites/all/themes/open_framework/fontawesome/css/font-awesome.min.css?o0hw9b.css... 5-0
+Converting links in sites/all/modules/webform/css/webform.css?o0hw9b.css... nothing to do.
+Converting links in sites/all/themes/stanford_framework/css/ie.css?o0hw9b.css... 1-0
+Converted links in 234 files in 0.3 seconds.

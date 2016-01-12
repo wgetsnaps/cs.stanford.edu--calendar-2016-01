@@ -13,7 +13,7 @@ This repository is a mirror of the following site:
 | Site title  | Events Calendar January 2016                             |
 | Publisher   | Stanford Computer Science                                |
 | URL         | http://www-cs.stanford.edu/events/calendar/month/2016-01 |
-| Mirrored at | 2016-01-11 22:01:31                                      |
+| Mirrored at | 2016-01-11 22:25:31                                      |
 
 
 
@@ -26,6 +26,7 @@ wget  --recursive \
       --adjust-extension \
       --convert-links \
       --page-requisites \
+      --output-file /dev/stdout \
       http://www-cs.stanford.edu/events/calendar/month/2016-01 |
-      tee ./wget.log
+      tee -a ./wget.log
 ~~~
